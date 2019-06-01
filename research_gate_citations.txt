@@ -1,1 +1,0 @@
-faculty,citation,title,type,abstract,book,journal,date,collabs,publisher,edition,series,volume,issue,chapter,pages,issn,isbn,handle,url
