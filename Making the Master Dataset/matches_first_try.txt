@@ -1,0 +1,2406 @@
+0, Keji Chen,515,Deborah A Chen
+1, Michael E. Doron,772,Michael E Doron
+2, Rafi Efrat,826,Rafi Efrat
+3, Monica Gianni,1079,Monica Gianni
+4, Young-Won Her,1315,Young-won Her
+5, Tao (Eric) Hu,1401,Tao "Eric" Hu
+6, Rajabali Kiani-Aslani,1623,Ali Kiani
+7, David Liu,17,David S Ackerman
+8, Dat-Dao Nguyen,2299,Dat Dao Nguyen
+9, Rishma Vedd,3252,Rishma R Vedd
+10, Li Richard Ye,748,Li Ding
+11, Sung-Wook Yoon,2344,Sung Ohm
+12, Jun Zhan,1788,Jun-Yeon Lee
+13, Yue (Jeff) Zhang,3492,Xu Zhang
+14, Kiren Dosanjh Zucker,776,Kiren K Dosanjh
+15, John Balian,171,John Balian
+16, Babken Basmadzhyan,201,Babken Basmadzhyan
+17, Alen Davoudian,694,Alen Davoudian
+18, Sharyn Fisk,932,Sharyn Fisk
+19, Robert Foster,964,Robert P Foster
+21, Steven Hoyle,1124,Steven J Golightly
+22, Marilyn Grodsky,1182,Marilyn B Grodsky
+23, Robert Johnson,1266,Nicole Harris Johnson
+24, Nadejda G. Meshkova,1826,Kate G Lewis
+25, Lucy Nalbandian,2264,Lucy C Nalbandian
+26, Arsen Oganesyan,2337,Arsen Oganesyan
+27, David Primes,174,James David Ballard
+28, Rob Razani,3222,Dr. Rob R. Unal
+29, Karen Ritchie,1675,Karen A Kochis-jennings
+30, Jerald M. Savin,757,Joy M Doan
+31, Mehrdad Sharbaf,2891,Mehrdad Sharbaf
+33, Jacob Stein,3038,Jacob Stein
+34, Earl J. Weiss,432,Christina J Campbell
+35, Anne Wu,446,Anne Sorensen
+39, Dhia D. Alhashim,56,Dhia D Alhashim
+40, Shahid L. Ansari,103,Shahid Ansari
+41, Robert L. Barker,185,Robert L Barker
+44, James C. Bennett,240,James Bennett
+45, Dwight Call,422,Dwight Call
+46, Raymond S. Chen,447,Chen Carmi
+47, James Chiu,174,James David Ballard
+48, Donna Driscoll,785,Donna Driscoll
+49, Glen Gray,1049,Glen R Garrett
+51, Christopher Jones,1505,Christopher G Jones
+52, Robert J. Kiddoo,968,Robert Fox
+53, William L. Kimball,369,Jodi L Brown
+54, Heidimarie Lundblad,1923,Heidemarie Lundblad
+55, James Macklin,1948,James H Macklin
+56, Mohammad A. Sangeladji,19,Maria A Acuna
+57, Ronald Stone,3055,Ronald S Stone
+58, Gary Stout,996,Gary A Fukushima
+59, Richard L. Strayer,369,Jodi L Brown
+60, Earl J. Weiss,432,Christina J Campbell
+61, Barbara A. Wilson,1683,Sharron A Kollmeyer gerfen
+62,Wei Cao,439,Wei Cao
+63,Hira Cho,536,Hira Cho
+64,Jongeun Kim,1116,Kim L Goldberg-roth
+65,Diane Lewis-Goldstein,1019,Diane Gallo
+66,Tracie Tung,3210,Tracie Tung
+67,Shirley Warren,3320,Shirley T Warren
+68,Linda Bradley,339,Linda A Bradley
+69,Yoko Mimura,2155,Yoko Mimura
+70,Angie Giordano,1094,Angie M Giordano
+71,Sean Jefferson,1476,Sean Jefferson
+72,Uma Krishnan,1712,Uma D Krishnan
+73,Heather McCollum,2059,Heather R McCollum
+74,Scott Williams,2848,William Scott
+75,Hessam Ghamari,1068,Hessam Ghamari
+76,Kristin King,1648,Kristin King
+77,Rodica Kohn,1681,Rodica Kohn
+78,Annette Besnilian,267,Annette A Besnilian
+79,Nelida Duran,803,Nelida "Nellie" Duran
+80,Dena Herman-Mendes,1319,Dena Herman-Mendes
+81,Elizabeth Sussman,3095,Elizabeth J. Sussman
+82,Setareh Torabian-Riasati,2619,Vahid R Riasati
+83,Claudia Fajardo-Lira,882,Claudia E Fajardo-Lira
+84,Rosalia Garcia-Torres,1033,Eric P Garcia
+85,Marine Boyadzhyan,333,Marine Boyadzhyan
+86,Pastor Herrera,1333,Pastor Herrera
+87,Erin Matthews-Maxwell,294,Erin Bishop
+88,Yali Yang,3437,Yali Yang
+89,Joyce Marie Brusasco,379,Joyce Marie Brusasco
+90,Christa Dunlap,795,Christa C Dunlap
+91,Cheryl Etting,871,Cheryl D Etting
+92,Shelly Gray,1160,Shelly L Gray
+93,Terry Hatkoff,1284,Terry S Hatkoff
+94,Liza Keating,55,Patricia Alford-Keating
+95,Erin Matthews-Maxwell,294,Erin Bishop
+96,Roxane Berger,251,Roxane I Berger
+97,Anu Thakur,3153,Anubhuti Thakur
+98,Amanda Blake,1689,Amanda Keller Konya
+99,Ava McKay,2075,Ava L Mckay
+100,Karmen Ovsepyan,2388,Karmen Ovsepyan
+101,Roya Pouldar,2523,Roya R Pouldar
+102,Jullie Ellis,845,Julie L Ellis
+103,Rebekah Child,530,Rebekah J Child
+105,Jon Christensen,216,Jon Beadle
+107,Laurie Gelardi,1061,Laurie J Gelardi
+108,Marianne Hattar-Pollara,1852,Marianne M Link
+109,Samira Moughrabi  ,2233,Samira M Moughrabi
+110,Zarmine Naccashian ,2257,Zarmine Naccashian
+115, Kristine Beck,220,Kristine L Beck
+116, Mu-Sheng Chang,486,Dan Chang
+117, Inga Chira,533,Inga Chira
+118, Hsin-Hui Chiu,534,Hsin-hui Chiu
+119, James Chong,174,James David Ballard
+120, Vicentiu Covrig,627,Vicentiu M Covrig
+121, James P. Dow,147,Gabriel P Axarlian
+122, M. Monica Hussein (Her),24,Janet M Adams
+123, Yanbo Jin,1491,Yanbo Jin
+124, G. Michael Phillips,138,Michael Auer
+125, David T. Russell,462,David Cary
+126, Zhong-Guo Zhou,3496,Zhong-guo (John) Zhou
+127, Jay S. Berger,249,Jay S Berger
+129, Sol S. Buchalter,2569,S K Ramesh
+130, David D. Cary,308,David A Blumenkrantz
+131, Chao Chen,513,Chao Chen
+132, Michael F. Dunn,797,John Dunn
+133, William P. Jennings,1,Jose P Abara
+134, Daniel L. McConaughy,62,Daniel Alonzo
+135, Mary Jean Scheuer,550,Mary Chua
+136, Arthur Taitt,2051,Arthur J Mccaffrey
+138,Bernardo Abrego,13,Bernardo M Abrego
+139,Ali Al-Sharadqah,44,Ali Al-sharadqah
+140,Alexander Alekseenko,51,Alexander M Alekseenko
+141,Jorge Balbas,169,Jorge Balbas
+142,Alberto Candel,436,Alberto Candel
+143,Maria Rita D'Orsogna,18,Megan D Aclan
+144,Rabia Djellouli,756,Rabia Djellouli
+145,John Dye,25,John P Adams
+146,Kellie Evans,875,Kellie M Evans
+147,Silvia Fernandez,905,Silvia Fernandez
+148,Terry Fuller,999,Terry S Fuller
+149,Xiaolong Han,1238,Xiaolong Han
+150,Werner Horn,1379,Werner Horn
+151,Daniel Katz,675,Sequare K Daniel-Berhe
+152,David Klein,174,James David Ballard
+153,Jing Li,1830,Bingbing Li
+154,Jason Lo,1199,Jason Gurtovoy
+155,Majid Mojirsheibani,1216,Majid Haghoo
+156,Michael Neubauer,138,Michael Auer
+157,Vladislav Panferov,2409,Vladislav Panferov
+158,Jacek Polewczak,2509,Jacek M Polewczak
+159,Jerry Rosen,1261,Jerry A Harrel-smith
+160,Mary Rosen,347,Mary K. Breazeale
+161,Mark Schilling,2811,Mark F Schilling
+162,Yannan Shen,2905,Yannan Shen
+163,Carol Shubin,2921,Carol S Shubin
+164,Malcolm Soule,3003,Malcolm S Soule
+165,Chad Sprouse,3020,Chadwick Sprouse
+166,Katherine Stevenson,3048,Katherine Stevenson
+167,Csaba Toth,3189,Csaba D Toth
+168,Ramin Vakilian,3228,Ramin Vakilian
+169,Ann Watkins,3324,Ann E Watkins
+170,Emmanuel Yomba,2739,Emmanuel Sabaiz-birdsill
+171,Ali Zakeri,44,Ali Al-sharadqah
+172,Adriano Zambom,3471,Adriano Zambom
+173,Nathan Agassi,35,Nathan Agassi
+174,Syuzanna Aghazaryan,36,Syuzanna Aghazaryan
+175,Yelena Aladadyan,45,Yelena Aladadyan
+176,John Asatryan,124,John Asatryan
+177,Helen Atniel,136,Helen Atniel
+178,Larbi Azzaz,153,Larbi Azzaz
+179,Ingrid Barbullushi,183,Ingrid Barbullushi
+180,David Berkowitz,256,David Berkowitz
+181,Alexander Bojkov,314,Alexander Bojkov
+182,Michael Button,410,Michael A Button
+183,Jesus Carbonell,443,Jesus V Carbonell
+185,Razvan Ciuca,556,Razvan Ciuca
+186,Debao Chen,514,Debao Chen
+187,Gregory Cover,624,Gregory Cover
+188,Michael Crosswhite,138,Michael Auer
+189,Douraid Daly,672,Douraid Daly
+190,Koffi Enakoutsa,853,Koffi Enakoutsa
+191,Richard Fine,463,Richard T Castallo
+192,Otilia Gonzales,1127,Otilia N Gonzales
+194,Alison Green,980,Alison G Freeman
+195,Siranush Grigoryan,1179,Siranush Grigoryan
+197,Andranik Hakobyan,1219,Andranik Hakobyan
+199,Theodora Jaime,1462,Theodora B Jaime
+200,Mark Jankins,1469,Mark Jankins
+201,Asawari Kelkar,1582,Asawari R Kelkar
+202,Khanik Kerobyan,1603,Khanik Mark Kerobyan
+203,Nazimuddin Khawaja,1620,Nazimuddin Khawaja
+204,Nafiseh Khoram,1621,Nafiseh Khoram
+205,Sungjin Kim,1116,Kim L Goldberg-roth
+206,Eloy Lopez,1888,Eloy A Lopez
+207,Mariya Makaryan,1970,Mariya Makaryan
+208,Mario Martinez,2027,Mario Martinez
+209,Tigran Mkrtchyan,2175,Tigran Mkrtchyan
+210,Zorayr Nalbandyan,2267,Zorayr Nalbandyan
+211,Andrea Nemeth,2284,Andrea Nemeth
+212,Ola Nusierat,2325,Ola Nusierat
+213,Bozena Onzol,2361,Bozena I Onzol
+214,Susanna Papisyan,2414,Susanna Papisyan
+215,Cord Perillo,2468,Cord Perillo
+216,Sevana Petrosians,2474,Sevana Petrosians
+217,Sheida Rahmani,2564,Sheida Rahmani
+218,Melody Rashidian,2579,Mehrdokht Rashidian koohpareh
+219,Hamid Ravanbakhsh,2585,Hamid Ravanbakhsh
+220,Claudia Reyes,882,Claudia E Fajardo-Lira
+221,Mohamad Riasati,2618,Mohamadreza Riasati
+222,Tony Rowe,454,Aimee M Carrillo rowe
+223,Arash Salehi,2753,Arash Salehi
+224,Henrik Sarkssian,2403,Henrik Palasani-minassians
+225,Ellis Shamash,1109,John Ellington (Ellis) Godard
+226,Bruce Shapiro,2887,Bruce L Shapiro
+227,Michael Silva,642,Michael S Crosswhite
+228,Maria So,19,Maria A Acuna
+229,Edouard Tchertchian,3141,Edouard A Tchertchian
+230,Mark Valbuena,1603,Khanik Mark Kerobyan
+231,Tracy Lachica Buenavista,390,Tracy L Buenavista
+232,Edith Chen,516,Edith W Chen
+233,Tomo Hattori,1286,Tomo Hattori
+234,Clement Lai,1741,Clement K Lai
+235,Gina Masequesmay,2031,Gina Masequesmay
+236,Khanum Shaikh,2877,Khanum Shaikh
+237,Eunai Shrake,2920,Eunai K Shrake
+238,Teresa Williams-Le�n,955,Kelly N Fong
+239,Allan Aquino,111,Allan A Aquino
+240,Kelly Fong,955,Kelly N Fong
+241,Margeaux Gamboa-Wong,1021,Harry Gamboa
+242,Phillip Hutchison,1426,Phillip A Hutchison
+243,Song Kim,1116,Kim L Goldberg-roth
+244,Daehwan Lee,1782,Daehwan Lee
+245,Doyoung Lee,1783,Doyoung K Lee
+246,Sung Ohm,2344,Sung Ohm
+247,Glenn Omatsu,2359,Glenn K Omatsu
+248,David Song,17,David S Ackerman
+249,Derek A. Tang,306,Stephanie A. Bluestein
+250,Maria Turnmeyer,701,Maria E De las carreras
+251,Laura Uba,117,Laura Arrowsmith
+252,Rodolfo Acuna,20,Rodolfo F Acuna
+253,Jose Amaro,79,Jose F Amaro
+254,Guillermo Avilos-Rodriguez,195,Guillermo Bartelt
+255,Gabriel Buelna,389,Gabriel Buelna
+256,Lucila Chavez,508,Lucila Chavez
+257,Nancy Cheeks,512,Nancy L Cheeks
+258,Jaime Cruz,645,Guillermo E Cruz
+259,Maria Elena Cruz,647,Maria elena Cruz
+260,Maria Elena Fernandez,19,Maria A Acuna
+261,Mildred Fuentes-Chung,994,Mildred Fuentes
+262,Antonio Gallo,1018,Antonio Gallo
+263,Harry Gamboa,612,Rebekah Cosola-Gamboa
+264,Omar Gonzalez,1132,Omar O Gonzalez
+265,Carlos Guerrero,1190,Carlos R Guerrero
+266,Carlos Hernandez,1323,Carlos Armando Hern�ndez
+267,Xilomen Herrera,1334,Xilomen Herrera
+268,Xocoyotzin Herrera,1335,Xocoyotzin Herrera
+269,Mario Lopez,1097,Mario A Giraldo Ph.D.
+270,Oscar Marti,2005,Oscar Marin
+271,Gerard Meraz,2116,Gerard A Meraz
+272,Norma Perez-Villanueva,2462,Monte Perez
+273,Alex Placencio,2499,Alex P Placencio
+274,Gerald Resendez,2605,Gerald A Resendez
+275,Herman Rodriguez,2659,Herman Rodriguez
+276,Maytha Ruffino,2715,Maythe Ruffino
+277,Everto Ruiz,2717,Everto Ruiz
+278,George Sanchez,2767,George B Sanchez
+279,Tony Sandoval,2774,Tony L Sandoval
+280,Jesse Valadez,3229,Jesse Valadez
+281,Vilma Villela,3273,Vilma Villela
+282,Sumaya Bezrati,273,Sumaya Bezrati
+283,Hasmig Baran,180,Hasmig Baran
+284,Vahram Shemmassian,2903,Vahram L Shemmassian
+285,Junliang Huang,1405,Junliang Huang
+286,Paul M. McDermott,43,David M Aks
+287,Tim Watson,3327,Charles T Watson
+288,Junliang Huang,1405,Junliang Huang
+289,Drake Langford,1756,Drake Langford
+290,Tim Watson,3327,Charles T Watson
+291,Ahmed Bouguarche,327,Ahmed Bouguarche
+292,Ludmila Posner,2520,Ludmila Posner
+293,Mira Rosenthal,2402,Mira Pak
+294,Patrizia Miller,2149,Patricia Miller
+295,Alessia Weisberg,3341,Alessia Weisberg
+296,Junliang Huang,1405,Junliang Huang
+297,Drake Langford,1756,Drake Langford
+298,Wendy Snyder,1279,Wendy E Hassenpflug
+299,Kanzo Takemori,3121,Kanzo Takemori
+300,Sung Yoon,3453,Sung ja Yoon
+301,Homa Esfarjani,864,Homa Esfarjani
+302,Dina Mokhnatkin,2181,Dina Mokhnatkin
+303,Gabriela Aprato,110,Gabriela F Aprato
+304,Adriana Benvenuto,247,Adriana Benvenuto
+305,Adrian Collado,588,Adrian Collado
+306,Edith Dimo,747,Edith Dimo
+307,Jacqueline Loza,1911,Jacqueline Loza
+308,Kenneth Luna,1922,Kenneth V Luna
+309,Ethan Margolis,2001,Ethan Margolis
+310,Axel Montepeque,2190,Axel Montepeque
+311,David Pardess,308,David A Blumenkrantz
+312,Pamela Perez,954,Maureen Fondevilla-Perez
+313,Adrian Perez-Boluda,2462,Monte Perez
+314,Ernesto Rojas-Torres,3187,Victor Torres
+315,Svetlana Tyutina,3217,Svetlana V Tyutina
+316,Xochitl Alvizo,73,Xochitl Alvizo
+317,Amanda Baugh,207,Amanda J Baugh
+318,Phyllis Herman,165,Phyllis karren Baird-olson
+319,Linda Lam-Easton,1746,Linda L Lam-easton
+320,Kenneth Lee,497,Kenneth S Chapman
+321,Jody Myers,2255,Jody E Myers
+322,Mutombo Nkulu-N Sengha,887,Randy N Farber
+323,Mustafa Ruzgar,2733,Mustafa Ruzgar
+324,Rick Talbott,3123,Rick F Talbott
+325,An Yountae,90,Yountae An
+326,James Goss,174,James David Ballard
+327,Thomas T. Love,263,Tina M Bertacchi-love
+328,Mokusen Miyuki,2172,Mokusen Miyuki
+329,F. Patrick Nichelson,79,Jose F Amaro
+330,Robert D. Shofner,248,Robert Berg
+331,Richard Assad,132,Richard Assad
+332,Brian Clearwater,568,Brian M Clearwater
+333,Randal Cummings,650,Randal L Cummings
+334,James Findlay,920,James D Findlay
+335,Elaine Goodfriend,1134,Elaine A Goodfriend
+336,Robert Goss,395,John Robert Burger
+337,Robert Mason,395,John Robert Burger
+338,Mary Jane O Donnell,215,Jane H Bayes
+339,Albert Tevanyan,3150,Albert Tevanyan
+340,Kenneth Todd,2748,Kenneth K Sakatani
+341,Ingrid Wilkerson,3379,Ingrid R Wilkerson
+342,Theresa White,3362,Theresa R White
+343,Aimee Glocke,454,Aimee M Carrillo rowe
+344,Cedric Hackett,1208,Cedric D Hackett
+345,Raquel Kennon,1595,Raquel D Kennon
+346,Sheba Lo,1868,Sheba Lo
+347,Marquita Gammage,1025,Marquita M Gammage
+348,Tom Spencer-Walters,1796,Tom K Lee
+349,Karin Stanford,3028,Karin L Stanford
+350,Shubha Venugopal,3259,Shubha Venugopal
+351,James Bracy,174,James David Ballard
+352,David L. Horne,1153,Nancy L Grass hemmert
+354,Johnie Scott,108,Scott A Appelrouth
+355,Deborakh Broadous,358,Deborakh A Broadous
+356,Andrea Fuller,997,Andrea Fuller
+357,Duane Ganther,1030,Duane Ganther
+358,James Henry,174,James David Ballard
+359,Victoria Richards,2625,Victoria D Richards
+360,Melanie Shaw,2897,Melanie Shaw
+361,James Simmons,2938,James Simmons
+362,Monica Turner,3213,Monica L Turner
+363,Christina Campbell,432,Christina J Campbell
+364,Cathy Lynne Costin,601,Lynne Cook
+365,Rachel F. Giraudo,1098,Rachel F Giraudo
+366,Kimberly Kirner,1654,Kimberly D Kirner
+367,Gisela Lanzas,1757,Gisela Lanzas
+368,Chin-hsin Liu,1860,Chin-hsin Liu
+369,Michael W. Love,765,Jim W Dole
+370,H�l�ne Rougier,1093,Fred H Ginsburg CAS PhD
+371,Suzanne Scheld,2807,Suzanne Scheld
+372,James E. Snead,701,Maria E De las carreras
+373,Christina Low von Mayrhauser,1540,Christina Toolan
+374,Jennifer Browder,366,Jennifer K Browder
+375,Martin Cohen,574,Martin B Cleveland
+376,Merve Gocknar,1113,Merve Goknar
+377,Catherine Haradon,1255,Catherine M Haradon
+378,Patrick Polk,2510,Patrick A Polk
+379,Stephen Siemens,2929,Stephen D Siemens
+380,Wendy Teeter,1279,Wendy E Hassenpflug
+381,Wallace Zane,3476,Wallace W Zane
+384,Bruce Gelvin,1062,Bruce R Gelvin
+385,Antonio Gilman,1091,Antonio Gilman
+386,David Hayano,174,James David Ballard
+387,Paul Kirk,1670,Paul Klinedinst
+391,L. Mark Raab,390,Tracy L Buenavista
+392,Gregory Truex,3204,GREGORY TRUEX
+393,Vickie Jensen,1482,Vickie Jensen
+394,James David Ballard,43,David M Aks
+395,Kay Pih,1571,Cynthia A Kay-nishiyama
+397,Eric Gamino,322,Eric Bordenkircher
+398,Anais Valiquette L'Heureux,80,Deborah L Amelon
+399,Nayan Ramirez,2570,Nayan G. Ramirez
+401,Victor Shaw,2898,Victor N Shaw
+402,Mylon Winn,3404,Mylon Winn
+403,Jaime Alanis,47,Jaime Alanis
+405,Cecillia Barron,192,Cecillia Barron
+406,Raqota Berger,250,Raqota T Berger
+408,Robert Brode,395,John Robert Burger
+409,Brandon Harris,1263,Brandon Harris
+410,Michael Hess,610,Michael D Cortrite
+411,Beth Jakubanis,1465,Beth Jakubanis
+414,Leslie Denice Labertew,814,Leslie Echols
+415,Julio Lima,738,Shoeleh S Di julio
+416,Dominic Little,1857,Dominic Little
+420,Craig Renetzky,2603,Craig A Renetzky
+422,Crystal Sanchez,902,Crystal lane S Ferguson
+430, Edward Jackiewicz,1447,Edward Jackiewicz
+431, Sanchayeeta Adhikari,30,Sanchayeeta Adhikari
+432, Soheil Boroushaki,323,Soheil Boroushaki
+433, Erin Bray,346,Erin Bray
+434, James Craine,174,James David Ballard
+436, Luke Drake,783,Luke Drake
+437, Mario Giraldo,1097,Mario A Giraldo Ph.D.
+438, Julie Laity,253,Julie A Berghofer
+439, Regan Maas,1939,Regan M Maas
+440, Amalie Orme,2367,Amalie J Orme
+441, Yifei Sun,3089,Yifei Sun
+442,David Deis,17,David S Ackerman
+444,Tracy Hurst,390,Tracy L Buenavista
+445,Marta Graves,1155,Marta J Graves
+446,Melissa Baughn,208,Melissa Baughn
+447,Martine Vallade,3235,Martine Vallade
+448,James Allen,58,James P. Allen
+449,Warren Bland,304,Warren Bland
+450,William Bowen,331,William Bowen
+451,Robert Gohstand,968,Robert Fox
+452,David Hornbeck,1380,David Hornbeck Jr.
+453,Robert Howard,1392,Robert B. Howard
+454,Antonia Hussey,1424,Antonia Hussey
+456,Gong-Yuh Lin,1844,Gongyuh Lin
+457,Gary Lobb,495,Gary A Chapman
+458,Elliot McIntire,2073,Elliot McIntire
+459,Eugene Turner,3211,Eugene Turner
+460,Ralph Vicero,3265,Ralph Vicero
+461,I-Shou Wang,836,Ayman I El-sharkawi
+462,Robert Kent,395,John Robert Burger
+463,Jeffrey Auerbach,139,Jeffrey A Auerbach
+464,Joyce Broussard,365,Joyce L Broussard
+465,Thomas W. Devine,733,Thomas W Devine
+466,Susan Fitzpatrick Behrens,140,Susan Auerbach
+467,Richard S. Horowitz ,118,Roger S Arst
+468,Rachel T. Howes ,1395,Rachel T Howes
+469,Patricia Juarez-Dappe,48,Patricia Alba
+470,Jeffrey D. Kaja,724,Nazaret Dermendjian. Ph.D.
+471,Jessica Kim,1116,Kim L Goldberg-roth
+472,Sylvia Macauley,1940,Sylvia V Macauley
+473,Miriam Neirick,2280,Miriam B Neirick
+474,John Paul Nu�o,209,Paul Baum
+475,Clementine Oliver,2354,Clementine Oliver
+476,Donal O'Sullivan,2331,Donal B O'sullivan
+477,James E. Sefton,310,James Bock
+478,Josh Sides,2927,Josh A Sides
+479,Frank L. Vatai,1153,Nancy L Grass hemmert
+480,Kathleen Addison,28,Kathleen E Addison
+481,Jorge Leal,1513,Jennifer S Jorge
+482,Brian Kovalesky,1699,Brian Kovalesky
+483,Orlando Rivero-Valdes,2641,Orlando Rivero-Valdes
+484,Tristan Traviolia,3197,Tristan J Traviolia
+485,Michael Ward,610,Michael D Cortrite
+487,Linda Alvarez,70,Linda Alvarez
+488,Jane Bayes,215,Jane H Bayes
+489,Leigh Bradberry,338,Leigh A Bradberry
+490,Alexandra Cole Macias,586,Alexandra Cole
+491,Jennifer De Maio,702,Jennifer L De maio
+492,Nicholas Dungey,794,Nicholas W Dungey
+493,Maria Rosa Garcia-Acevedo,19,Maria A Acuna
+494,Keiko Hirata,1350,Keiko Hirata
+495,Tom Hogen-Esch,1362,Tom J Hogen-esch
+496,Tyler Hughes,1415,Tyler J Hughes
+497,David Leitch,174,James David Ballard
+498,Kristy Michaud,2134,Kristy Michaud
+499,James A. Mitchell,310,James Bock
+500,Jason Morin,2218,Jason L Morin
+501,Boris Ricks,2628,Boris E. Ricks
+502,Martin Saiz,574,Martin B Cleveland
+503,Alan Buckley,386,Alan Buckley
+504,Adam Feldman,897,Adam Feldman
+505,Thomas Hartman,1273,Thomas R Hartman
+506,Peter Kappas,93,Mads Peter Sulbaek Andersen
+507,Marcos Menchaca,2105,Marcos Menchaca
+508,Ahmad Motameni,2231,Ahmad Motameni
+509,Kassem Nabulsi,2256,Kassem Nabulsi
+510,Craig Allen Renetzky,59,Larry G Allen
+511,Talin Saroukhanian,2786,Talin Saroukhanian
+513,Warren Campbell,435,Warren M Campbell
+516,Christopher Leu,1815,Christopher A Leu
+517,Lawrence Littwin,1859,Lawrence Littwin
+518,Henry Lopez,1889,Henry B Lopez
+519,Virginia Lee Lussier,643,Lee Crowe
+520,Jack O'Neill,1096,Valerie O Giovanini
+521,Phillip Present,2534,Phillip Present
+522,David Ringsmuth,462,David Cary
+523,Ram Roy,2706,Jeffrey Roy
+524,Sylvia Snowiss,2981,Sylvia Snowiss
+526,Andrew Ainsworth,40,Andrew T Ainsworth
+527,Alyssa Arentoft,113,Alyssa Arentoft
+528,Meeta Banerjee,176,Meeta Banerjee
+529,Sara Berzenski,266,Sara R Berzenski
+530,Thomas Chan,484,Thomas Chan
+531,Gabriela Chavira,510,Gabriela Chavira
+532,Stefanie Drew,784,Stefanie A Drew
+533,Tara Fahmie,881,Tara A Fahmie
+534,Elise Fenn,901,Elise A Fenn
+535,Stephanie Hood,306,Stephanie A. Bluestein
+536,Que-Lam Huynh,1429,Que-Lam Huynh
+537,Sun-Mee Kang,1542,Sun-mee Kang
+538,Justin Kantner,1543,Justin Kantner
+539,Gary Katz,495,Gary A Chapman
+540,Ellie Kazemi,1575,Ellie Kazemi
+541,Luciana Lagan�,1740,Luciana Lagan�
+542,Debbie Ma,1936,Debbie S Ma
+543,Debra Berry Malmberg,578,Debra Coaloa
+544,Jonathan Martinez,2024,Jonathan Martinez
+545,Bradley D. McAuliff,418,David D Cain
+546,Maura N. Mitrushina,955,Kelly N Fong
+547,Mark Otten,434,Mark D Campbell
+548,Scott Plunkett,2505,Scott W. Plunkett
+549,Jill Quilici,2551,Jill L Quilici
+550,Jill Razani,2588,Jill J Razani
+551,Abraham M. Rutchick,43,David M Aks
+552,Omar Ruvalcaba,2732,Omar Ruvalcaba
+553,Carrie Saetermoe,2697,Carrie S Rothstein-Fisch
+554,Mark Sergi,434,Mark D Campbell
+556,Holli Tonyan,3183,Holli A Tonyan
+557,Yolanda Vasquez-Salgado,2677,Yolanda Rosas
+558,Erica Wohldmann,2673,Erica Rood
+559,Jose Paulino Abara,1,Jose P Abara
+560,Jeffrey Appell,107,Jeffrey L Appell
+561,Nancy Blum,307,Nancy A Blum
+562,Gidget Brogdon,362,Gidget Brogdon
+563,Michael Gardner,1047,Michael A Gardner
+564,Marc Hamer,1229,Marc R Hamer
+565,Michael Hess,610,Michael D Cortrite
+566,Delinah Hurwitz,1422,Delinah R Hurwitz
+567,Kristin Hyde,1431,Kristin A Hyde
+568,Chunying Jin,1489,Chunying Jin
+569,Olga Kramarova,1704,Olga Kramarova
+570,Aida Mahmud,1964,Aida Mahmud
+571,Andrea Rashtian,2580,Andrea M Rashtian
+572,Brian Rice,468,Brian Castronovo
+574,Michelle Sadeh,2743,Michelle Sadeh
+575,Harry Stark,3032,Harry J Stark
+576,Jose Vargas,2456,Jennifer Vargas Pemberton
+577,Alejandra Acuna,3206,Alejandra Trujillo Arevalo
+578,Wendy Ashley,128,Wendy J Ashley
+579,Eli Bartle,197,Eli E Bartle
+580,Jodi Brown,367,Anthony E Brown
+581,Luis O. Curiel,654,Luis O Curiel
+582,Judith DeBonis,706,Judith A Debonis
+583,Herman DeBose,707,Herman L Debose
+584,James Decker,174,James David Ballard
+585,Julie Gould,253,Julie A Berghofer
+586,Allen Lipscomb,1853,Allen E Lipscomb
+587,Susan Love,228,Susan F Belgrad
+588,David McCarty-Caplan,43,David M Aks
+589,Katie Mortimer,2226,Katie D Mortimer
+590,Jose Miguel Paez,2396,Jose M Paez
+591,Hyun-Sun Park,2423,Hyun sun Park
+592,Jose Ramos,2572,Jose A Ramos
+593,Steven Sherry,2364,Steven B Oppenheimer
+594,Robin Sims,819,Robin D Edmonds
+595,Jolene Swain,3099,Jolene Swain
+596,Lauren Willner,3394,Lauren N Willner
+597,Mark Abelson,5,Mark Abelson
+598,Iris A'Hirataro,0,Iris A'Hirataro
+599,Patricia Alba,48,Patricia Alba
+600,Michele Bartlett,198,Michele E Bartlett
+601,Tiffani Brooks,364,Tiffani A Brooks
+602,Marjorie Chase,502,Marjorie A Chase
+603,David Deutsch,308,David A Blumenkrantz
+604,Xiomara Flores-Holguin,945,Jesse Flores
+605,Monicka Guevara,1192,Monicka E Guevara
+606,Jennifer Jorge,1311,Jennifer A Henningfield
+607,Patricia Lane,55,Patricia Alford-Keating
+608,Jared Morgan,2214,Jared Morgan
+609,Caroline Novack,2319,Caroline N Novack
+610,Luis Pereira,235,Jos� Luis Benavides
+611,Ioana Schmidt,2818,Ioana D Schmidt
+613,Victoria Terrill,3148,Victoria M Terrill
+614,Scott Appelrouth,108,Scott A Appelrouth
+615,David Boyns,174,James David Ballard
+616,Lori Campbell,432,Christina J Campbell
+617,Moshoula Capous-Desyllas,440,Moshoula Capous desyllas
+618,Michael J. Carter,459,Michael J Carter
+619,Laura Desfor Edles,173,Laura Ballan
+620,John Ellington Godard,25,John P Adams
+621,D. A. Lopez,99,Richard A Andrews
+622,Lauren E. McDonald,197,Eli E Bartle
+623,Stacy Missari,1368,Stacy L Holman jones
+624,Karen Morgaine,1675,Karen A Kochis-jennings
+625,Daniel Olmos,675,Sequare K Daniel-Berhe
+626,Ana Prata,2769,Ana Sanchez-Mu�oz
+627,Victor N. Shaw,1550,Stavros N Karageorgis
+628,Wen Wang,1400,Wen chin Hsu
+629,Loretta Winters,3408,Loretta I Winters
+630,Mark Abelson,5,Mark Abelson
+631,Raqota Berger,250,Raqota T Berger
+633,David Bogumil,308,David A Blumenkrantz
+634,Monicka Guevara,1192,Monicka E Guevara
+635,Terry Hatkoff,1284,Terry S Hatkoff
+636,Beth Jakubanis,1465,Beth Jakubanis
+637,Briauna Johnson,1494,Briauna Johnson
+638,Stavros N. Karageorgis,887,Randy N Farber
+639,Kris Kouri,1697,Kristyan M Kouri
+640,Leticia Lara,1758,Leticia C Lara
+641,Ali Akbar Mahdi,84,Ali Amini
+642,Roya Mavaddat,2043,Roya Mavaddat
+643,Alex Ojeda,2346,Alex Ojeda
+644,Emily Prior,2416,Emily L Paramonova
+645,Michele Scaife,2800,Michele L Scaife
+646,Jerald G. Schutte,2341,Sharon G Oh
+647,Mary Beth Slusar,550,Mary Chua
+649,B.J. Bluth,8,Thomas J Abraham
+650,James Elias,174,James David Ballard
+652,Vincent Jefferies,1477,Vincent Jeffries
+653,Ronald Krane,3301,Ronald H Wallingford
+654,Kian Kwan,1728,Patty (Patchareeya) Kwan
+655,Jane Prather,2328,Mary jane O'donnell
+656,Harvey Rich,2623,Harvey E Rich
+657,Jerald G. Schutte,2341,Sharon G Oh
+658,Lawrence Sneden,2980,LAWRENCE SNEDEN
+659,Lewis Yablonsky,1829,Diane E Lewis-goldstein
+660,Nathan Weinberg,3336,Nathan Weinberg
+661,Robert B. Kent,1596,Robert B Kent
+662,Henrik Minassians,2403,Henrik Palasani-minassians
+663,Craig Olwert,2358,Craig T Olwert
+664,Ward Thomas,1283,Thomas H Hatfield
+665,Zeynep Toker,3179,Zeynep Toker
+666,Mintesnot G. Woldeamanuel,59,Larry G Allen
+667,W. Tim Dagadog,297,Tim Black
+668,Armin� Chaparyan,494,Armine Chaparyan
+669,Nathan Hutson,1427,Nathan Hutson
+670,Cecilia Kim,1116,Kim L Goldberg-roth
+671,Yvette Lopez,1895,Yvette Lopez
+672,Carl Morehouse,2208,Carl Morehouse
+673,Brettany Shannon,2884,Brettany Shannon
+674,Abhishek Tiwari,3173,Abhishek Tiwari
+675,Dev Vrat,3289,Dev Vrat
+676,Claude Willey,3380,Claude S Willey
+677,Jose Luis Benavides,1,Jose P Abara
+678,Elizabeth Blakey,303,Elizabeth Blakey
+679,Stephanie Bluestein,306,Stephanie A. Bluestein
+680,David Blumenkrantz,43,David M Aks
+681,Linda Bowen,330,Linda S Bowen
+682,Benjamin Davis,685,Benjamin A. Davis
+683,Marcella De Veaux,732,Marcella DeVeaux
+684,Daniela Gerson,1066,Daniela Gerson
+685,David Grewe,174,James David Ballard
+686,Taehyun Kim,1116,Kim L Goldberg-roth
+687,Gretchen Macchiarella,1941,Gretchen Macchiarella
+688,Jessica Retis,2205,Jessica Morales-Chicas
+689,Melissa Wall,3299,Melissa Wall
+690,Yue Zheng,3494,Yue Zhang
+692,Aron Bender,237,Aron W Bender
+693,Scott Brown,108,Scott A Appelrouth
+694,Richard Chambers,480,Richard Chambers
+696,Ryan Fonseca,956,Ryan Fonseca
+697,Stacy Long,1368,Stacy L Holman jones
+698,Terri Thuente,3167,Terri L Thuente
+699,Sarah (Sally) Turner,1303,Sarah Hemmert
+700,Arvli Ward,3311,ARVLI WARD
+701,Tim Whyte,3375,Timothy J Whyte
+702,Ric Alviso,72,Ric Alviso
+703,Katherine Ramos Baker,168,Katherine R Baker
+704,Ronald M. Borczon,43,David M Aks
+705,Lorenz Gamma,1024,Lorenz A Gamma
+706,Glen Garrett,1049,Glen R Garrett
+707,Matt Harris,1266,Nicole Harris Johnson
+708,Julia Heinen,1299,Julia Heinen
+709,Jeffrey Izzo,139,Jeffrey A Auerbach
+710,Liviu Marinescu,2006,Liviu Marinescu
+711,A.J. McCaffrey,306,Stephanie A. Bluestein
+712,Alexandra Monchick,2184,Alexandra Monchick
+713,Gary Pratt,996,Gary A Fukushima
+714,Dmitry Rachmanov,2559,Dmitry Rachmanov
+715,Diane Roscetti,1829,Diane E Lewis-goldstein
+716,John Roscigno,1109,John Ellington (Ellis) Godard
+717,Clinton Rusich,2725,Clinton Rusich
+718,David Sannerud,1861,David Liu
+719,Elizabeth Sellers,2856,Elizabeth A Sellers
+720,Mary Schliff,651,Mary A Cummins-prager
+721,Paul Smith,1261,Jerry A Harrel-smith
+722,Lawrence Stoffel,3052,Lawrence F Stoffel
+723,Andrew Surmani,3093,Andrew L. Surmani
+724,Steve Thachuk,3151,Steven J Thachuk
+725,John L. Whitener,797,John Dunn
+726,Allison Allport,61,Allison Allport counseller
+727,Candis Badgley,159,Candis Badgley
+728,Robert Berg,248,Robert Berg
+729,Annie Bosler,325,Anna Bosler
+730,John Buonamassa,393,John N Buonamassa
+731,Phil Calvert,424,Philip A Calvert
+732,Roberto Cani,437,Roberto Cani
+733,Carey Christensen,544,Carey L Christensen
+734,Heather Clark,563,Heather A Clark
+736,Mark Cross,434,Mark D Campbell
+737,Erica Davis,685,Benjamin A. Davis
+738,John Dearman,395,John Robert Burger
+739,Helen Dolas,763,Helen G Dolas
+740,James Dorsa,174,James David Ballard
+741,Bryan Fasola,892,Bryan K Fasola
+742,Gary Fukushima,996,Gary A Fukushima
+743,Peter Garcia,93,Mads Peter Sulbaek Andersen
+744,Kimaree Gilad,1085,Kimaree T Gilad
+745,Maurice Godin,1110,Maurice E Godin
+746,Richard Hofmann,1360,Richard G Hofmann
+747,Timothy Howard,1394,Timothy P Howard
+748,Sandra Kipp Iles,1652,Sandra Kipp
+749,Don Kasper,1562,Donald J Kasper
+750,Diane Ketchie-Saar,1019,Diane Gallo
+752,Gayle Kowalchyk,1701,Gayle Kowalchyk
+753,Jon Lewis,498,Lewis Chappelear
+754,E.L. Lancaster,701,Maria E De las carreras
+755,Robert Lockart,1871,Robert R Lockart
+756,John Magnussen,797,John Dunn
+757,Andrew Malloy,1979,Andrew T Malloy
+758,William Malpede,1982,William V Malpede
+759,Shigemi Matsumoto,2039,Shigemi Matsumoto
+760,Oscar Meza,2132,Oscar M Meza
+761,Anthony Moreno,2210,Anthony Moreno
+762,Michael Mull,610,Michael D Cortrite
+763,John Pisano,291,John T Birmingham
+764,Kathryn Pisaro,2453,Kathryn D Peckham-Hardin
+767,Mark Richman,1603,Khanik Mark Kerobyan
+768,David Robaire,308,David A Blumenkrantz
+769,Mary Schliff,651,Mary A Cummins-prager
+770,Howard Shear,1390,Alexander F Howard
+771,David Shostac,308,David A Blumenkrantz
+772,Janet Crouch Shulman,24,Janet M Adams
+773,Aaron Smith,1261,Jerry A Harrel-smith
+774,Benjamin Sorrell,2996,Benjamin Sorrell
+775,Jason Stoll,3054,Jason Stoll
+776,Tali Tadmor,3118,Tali Tadmor
+777,Ming Tsu,2158,Jeanine M Ming�. Ph.D.
+779,William Wood,717,William P Delatorre
+780,Anamarie Dwyer,808,Anamarie Dwyer
+781,Ah-Jeong Kim,1116,Kim L Goldberg-roth
+782,Christine Menzies,2114,Christine A Menzies
+783,Dan Weingarten,486,Dan Chang
+784,Efren Delgadillo,718,Efren Delgadillo
+785,Garry D. Lennon,724,Nazaret Dermendjian. Ph.D.
+786,J'aime Morrison,2222,J'aime B Morrison
+787,Larry Biederman,281,Larry Biederman
+788,Matthew Jackson,1454,Matthew Jackson
+789,Ali Kiani,44,Ali Al-sharadqah
+790,Debra Piver,1418,Debra L Huntsman-lannom
+792,Elizabeth Cox,629,Elizabeth A Cox
+793,Erin McBride-Africa,294,Erin Bishop
+794,Frank Catalano,469,Francis Catalano
+795,Guillermo Aviles-Rodriguez,146,Guillermo G Aviles
+796,Helen SH Simpson,2943,Helen Simpson
+797,Lauren McCue,2062,Lauren McCue
+798,Mark Svastics,1603,Khanik Mark Kerobyan
+799,Nikhil Pai,2398,Nikhil Pai
+800,Paula Higgins,1343,Paula A Higgins
+801,Samuel Kolodezh,1684,Samuel Kolodezh
+802,Suzanne Hunt-Jenner,1478,Suzanne Jenner
+803,Verity Branco,343,Verity Branco
+804, Nazaret Dermendjian,724,Nazaret Dermendjian. Ph.D.
+805, Rais Ahmad,39,Rais Ahmad
+806, Anwar Alroomi,65,Anwar S Alroomi
+807, David Boyajian,334,David M Boyajian
+808, Edward Dombourian,766,Edward M Dombourian
+809, Tzong-Ying Hao,1253,Tzong-Ying Hao
+810, Mohamed Hegab,1296,Mohamed Hegab
+811, Sami Maalouf,1937,Sami Maalouf
+813, Nasser Alwehaidah,75,Nasser Alwehaidah
+814, Jora Amirkhanian,86,Jora Amirkhanian
+815, Vatche Ananian,91,Vatche Ananian
+816, Setrak Balian,172,Setrak Balian
+817, Ramin Dailamy,668,Ramin Dailamy
+818, Ayman El-Sharkawi I,836,Ayman I El-sharkawi
+819, Mark Giljum,1089,Mark J Giljum
+820, Vahic Goorjian,1138,Vahic H Goorjian
+821, Raymond Haddad,1210,Raymond Haddad
+822, Hossain Hadje-Ghaffari,1212,Hossain Hadje-ghaffari
+823, Farrokh Jalalvand,1466,Farrokh Jalalvand
+824, Muhammad Zahir Khan,1618,Muhammad Khan
+825, Homayoun Kiani,1623,Ali Kiani
+826, Spiridon A. Lazaris,307,Nancy A Blum
+827, Thang Le,1776,Thang H Le
+828, Joseph Marfi,714,Joseph C Deladurantey
+829, Jack Samara,2382,Jack Ou
+830, Bruce Schofield,2826,Bruce K Schofield
+831, Diba Yadegari,3433,Diba Yadegari
+832, Roger Di Julio,744,Roger Dijulio
+833, Stephen Gadomski,1005,Stephen A Gadomski
+834, Miguel Macias,1203,Miguel-Angel Gutierrez
+836, Leonard Spunt,3021,Leonard Spunt
+837, Janet Adams,22,Elizabeth T Adams
+838, Janna Beling,229,Janna Beling
+839, Paula Ferreira,908,Paula Ferreira
+841, Aimie Kachingwe,1526,Aimie F Kachingwe
+842, Sheryl Low,1907,Sheryl A Low
+843,Witaya Dan Mathiyakom,486,Dan Chang
+844, Beth Phillips,2484,Beth jo Phillips
+846, Can M. Alpaslan,63,Can M Alpaslan
+847, Akanksha Bedi,223,Akanksha Bedi
+848, John Bruton,291,John T Birmingham
+849, Daniel Degravel,712,Daniel Degravel
+850, Philip C. Gorman,397,Sloane C Burke-Winkelman
+851, Sandy Green,1164,Sandy E Green
+852, Julia Hoch,1356,Julia E Hoch
+853, Sanjay Jain,1464,Sanjay Jain
+854, Richard W. Moore,765,Jim W Dole
+855, Loren Naidoo,2261,Loren Naidoo
+856, Sigalit Ronen,2672,Sigalit Ronen
+857, Cristina Rubino,2713,Cristina Rubino
+858, Joanne Scillitoe,2843,Joanne Scillitoe
+859, Lois Shelton,2902,Lois M Shelton
+860, Silvina Bamrungpong,175,Silvina Bamrungpong
+861, Violet Christopher,548,Violet Christopher
+862, John Consoli,395,John Robert Burger
+863, Bruce Davis,685,Benjamin A. Davis
+864, Diane Flannery,937,Diane M Flannery
+865, Drew Foley,784,Stefanie A Drew
+866, Deborah Glick,1102,Deborah B Glick
+867, Joy Griffin,1175,Joy B Griffin
+868,Hanen. Karen,448,Karen Dee Carpenter
+869, Jeanne Hartley,1271,Jeanne Hartley
+870, Laura Hernandez,1327,Laura Hernandez
+871, Ari Malka,1977,Ariel Malka
+872, Stephone Neely,2278,Stephone M Neely
+873, Michael Parkhurst,2429,Michael S Parkhurst
+874, Blaine Pope,2516,BLAINE D. POPE
+875, Roger Smith,1261,Jerry A Harrel-smith
+876, Wayne Smith,1261,Jerry A Harrel-smith
+877, Claudia Velasco,3253,Claudia Velasco
+878, Nathalie Virem,3277,Nathalie Virem
+879, Sheila Walker,3298,Sheila M Walker
+880,  John Yudelson,1109,John Ellington (Ellis) Godard
+882, Jay G. Christensen,249,Jay S Berger
+883, Alan M. Glassman,757,Joy M Doan
+884, Robert Hanna,395,John Robert Burger
+885, Richard Kernochan,1601,Richard Kernochan
+886, Myrna Mandell,1988,Myrna P. Mandell
+888, Gerard L. Rossy,1373,Ray L Hong
+889, David Ackerman,17,David S Ackerman
+890, Mariam Beruchashvili,265,Mariam Beruchashvili
+891, Barbara L. Gross,1184,Barbara L Gross
+892, Deborah D. Heisley,418,David D Cain
+893, Dongling Huang,1403,Dongling Huang
+894, Tina Kiesler,263,Tina M Bertacchi-love
+895, Nora Moran,2206,Nora Moran
+896, Qin Sun,1542,Sun-mee Kang
+897, Franck Vigneron,3267,Franck Vigneron
+898, Kristen L. Walker,1159,Glen L Gray
+899, Amy Wen,1247,Amy N Hanreddy
+900, Michael Bessolo,268,Michael S Bessolo
+901, Violet Christopher,548,Violet Christopher
+902, Keith Gosselin,1143,Keith A Gosselin
+903, Joy Griffin,1175,Joy B Griffin
+904, Kristin Houser,1388,Kristin F Houser
+905, Sean Keyani,1609,Sean Maziar Keyani
+906, Jennifer Keysor,1311,Jennifer A Henningfield
+907, Robert Kim,185,Robert L Barker
+908, Mike Lloyd,1866,Mike Lloyd
+909, Young-Seon (Paul) Moon,209,Paul Baum
+911, Roger Smith,1261,Jerry A Harrel-smith
+912, Henry Tran,3196,Henry Tran
+913, Rachel Zacharia,3467,Rachel Zacharia
+914,Gladis J. Escalera,488,Kang J Chang
+915,Mark Fuentes,1603,Khanik Mark Kerobyan
+916,Edgar Juarez,1520,Patricia Juarez-Dappe
+919, Ardavan Asef-Vaziri,125,Ardavan Asef-vaziri
+920, Ali R. Behnezhad,84,Ali Amini
+921, Amir Gharehgozli,1070,Amir Gharehgozli
+922, Jun-Yeon Lee,1788,Jun-Yeon Lee
+923, Kunpeng Li,1031,Li Gao
+924, Seung-Kuk Paik,2400,Seung-kuk Paik
+925, Siva Sankaran,2777,Siva R Sankaran
+926, Chi-Chuan (Andy) Yao,3438,Chi-chuan A Yao
+927, Paul Baum,209,Paul Baum
+928, Avi Dechter,708,Avi Dechter
+930, Richard Gunther,1197,Richard E Gunther
+931, Gordon Johnson,1266,Nicole Harris Johnson
+932, Albert Kinderman,1644,Albert J Kinderman
+933, John Miller,291,John T Birmingham
+937, Thomas Wedel,2052,Thomas R Mccambridge
+939, Behnam Abrams,10,Behnam Abrams
+940, Khashayar Behdinan,224,Khashayar Behdinan
+941, Greg Eisenbrand,833,Gregory Eisenbrand
+942, Kaveh Houshmand Azad,1389,Kaveh Houshmand azad
+943, Zari Karimi,1557,Zari Karimi
+944, Fareen Mehrzai,2098,Fareen Mehrzai
+945, Jane Tierney,2328,Mary jane O'donnell
+946, Ahmad Vessal,3263,Ahmad Vessal
+948,Edward Alfano,53,Edward C Alfano
+949,Joe Bautista,212,Joe Bautista
+950,Patsy Cox,629,Elizabeth A Cox
+951,Paula DiMarco,746,Paula J Dimarco
+952,Owen Doonan,770,Owen P Doonan
+953,Mark Farquhar,889,Mark R Farquhar
+954,Samantha Fields,915,Samantha M Fields
+955,Candice Greathouse,1161,Candice Greathouse
+956,Steven Hampton,1237,Steven Hampton
+957,Lynette Henderson,1306,Lynette K Henderson
+958,Jim Kelley,1071,Hawa Ghaus-Kelley
+959,Peri Klemm,1666,Peri M Klemm
+960,Lesley Krane,1705,lesley krane
+961,Laurel Long,1879,Laurel A Long
+962,Dave Moon,2194,Dave Moon
+963,Mario Ontiveros,2029,Mario E Martinez-quijada
+964,Caleb Owens,2389,Caleb R Owens
+965,Edie Pistolesi,2497,Edie Pistolesi
+966,Magdy Rizk,2642,Magdy Rizk
+967,Michelle Rozic,2710,Michelle Rozic
+968,Ron Saito,2746,Ron Saito
+969,Erik Sandberg,2770,Erik M Sandberg
+970,Robert St. Pierre,248,Robert Berg
+971,Kristin Taylor,3137,Kristin A Taylor
+972,Christian Tedeschi,3142,Christian R Tedeschi
+973,Joy von Wolffersdorff,757,Joy M Doan
+974,Meiqin Wang,3307,Meiqin Wang
+975,RuthAnn Anderson,96,Ruthann Anderson
+976,Noah Amrani,89,Noah Amrani
+978,Tanya Batura,206,Tanya Batura
+979,Caleb Bladh,299,Caleb C Bladh
+980,Michael Bonitatis,317,Michael Bonitatis
+981,Jean-Luc Bordeaux,321,Jean L Bordeaux
+982,Holly Boruck,324,Holly Boruck
+983,Tanya Brodsky,360,Tanya Brodsky
+984,Betty Brown,368,Betty A Brown
+985,Anita Bunn,392,Anita Bunn
+986,Ryan Cheney,524,Ryan M Cheney
+987,John Clisset,395,John Robert Burger
+988,Jeff Courtney,622,Jeff P Courtney
+989,Lee Crowe,643,Lee Crowe
+990,Brian Dario,568,Brian M Clearwater
+991,Gioj De Marco,701,Maria E De las carreras
+992,Drew Dominick,767,Andrew B Dominick
+994,Molly Enholm,858,Molly A Enholm
+995,Kent Familton,885,Kent W Familton
+996,Tim Forcum,958,Timothy D Forcum
+997,Shannon Freshwater,982,Shannon Freshwater
+998,Trevor Greenleaf,1169,Trevor Greenleaf
+999,Alina Hayes,1291,Alina Hayes
+1000,Hiroki Itokazu,1440,Hiroki Itokazu
+1001,Ken Jones,1368,Stacy L Holman jones
+1002,Marzieh Karimi,1556,Marzieh Karimi
+1003,Niku Kashef,1560,Niku B Kashef
+1004,Jennifer Smith Klein,1660,David M Klein
+1005,Ira Korman,1692,Ira Korman
+1007,Nick Longo,1881,Nick Longo
+1008,Gaston Marzio,2030,Gaston Marzio
+1009,Robin McCauley,2055,Robin McCauley
+1010,Bruce Mendelson,2107,Bruce Mendelson
+1011,Aglaia Mortcheva,2225,Aglaia Mortcheva
+1012,Juliet Moss,2230,Juliet Moss
+1013,Andrea Newell,2289,Andrea Newell
+1014,Elizabeth Nurenberg,2324,Elizabeth A Nurenberg
+1015,Richard Ollis,1307,Richard D Hendrickson
+1016,Omid Orouji,2369,Omid Orouji
+1017,Ernestina Osorio,2377,Ernestina Osorio
+1018,Larry Oviatt,2386,Larry A Oviatt
+1019,Fabia Panjarian,2410,Fabia Panjarian
+1020,Levon Parian,2421,Levon Parian
+1021,Vesna Petrovic,2476,Vesna Petrovic
+1022,Donna Pozen,2527,Donna M Pozen
+1024,Shirin Raban,2553,Shirin E Raban
+1026,Jamie Russom,2730,Jamie Russom
+1027,Karen Schifman,1675,Karen A Kochis-jennings
+1028,Julia Schlosser,1747,Julia Lambertini-Andreotti
+1029,Howard Schneider,2821,Howard S Schneider
+1030,Louis Solis,2136,Louis E Michelson
+1031,Robert Souza,395,John Robert Burger
+1032,Alex Swart,2499,Alex P Placencio
+1033,Curtis Taylor,3136,Curtis Taylor
+1034,Debra Wacks,1418,Debra L Huntsman-lannom
+1035,Eve Wood,3421,Eve Wood
+1036,Calvin Yip,3446,Calvin Yip
+1037,Thelma Vickroy,3266,Thelma J Vickroy
+1038,Erik Boccio,309,Erik Boccio
+1039,Karen Dee Carpenter,448,Karen Dee Carpenter
+1040,Eric Edson,190,Eric S Barnhart
+1041,Frances Gateward,1054,Frances K Gateward
+1042,Michael Hoggan,1363,Michael B Hoggan
+1043,Todd Holmes,1369,Christopher E Holmes
+1044,Alessandro Jacchia,1445,Alessandro Jacchia
+1045,Michael Johnson,1499,Michael Johnson Jr.
+1046,Joel Krantz,1707,Joel Krantz
+1047,Alexis Krasilovsky,1708,Alexis Krasilovsky
+1048,Elizabeth Leister,1800,Elizabeth Leister
+1049,Jared Rappaport,2577,Jared H Rappaport
+1050,Quinn Saunders,2789,Carmen T Saunders-Russell
+1051,John Schultheiss,797,John Dunn
+1052,Jon Stahl,546,Jon Christensen
+1053,Scott Sturgeon,3069,Scott Sturgeon
+1054,Nate Thomas,1283,Thomas H Hatfield
+1055,D. E. Wynter,28,Kathleen E Addison
+1056,Iris Arvizu,120,Iris Arvizu
+1057,Mark Austin,142,Mark A Austin
+1058,Michael Bevan,271,Michael A Bevan
+1059,Michael Bucklin,387,Michael R Bucklin
+1060,Richard Chambers,480,Richard Chambers
+1061,Greg Ciacccio,554,Greg Ciaccio
+1062,Leigh Collier,590,Leigh Collier
+1063,Henryk Cymerman,662,Henryk Cymerman
+1064,Maria Elena de las Carreras,19,Maria A Acuna
+1065,Christopher Childs,531,Christopher Childs
+1066,David Desser,174,James David Ballard
+1067,Deborah Diehl,741,Deborah L Diehl
+1068,Shirley Finney,924,Shirley Finney
+1069,Edward Frank,766,Edward M Dombourian
+1070,Andrea Fuller,997,Andrea Fuller
+1071,Jeffrey Gilbert,1086,Jeffrey A Gilbert
+1072,Fred Ginsburg,1093,Fred H Ginsburg CAS PhD
+1073,Vincent Gutierrez,1204,Vincent Gutierrez
+1075,Elizabeth L. Huszarik,170,Barney L Bales
+1076,Hillary Kaplowitz,1547,Hillary Kaplowitz
+1077,Melody Kellis,1588,Melody Kellis
+1078,Jonathan Kesseman,1605,Jonathan Kesselman
+1079,Harvey Laidman,1742,Harvey S Laidman
+1080,Morgan Land,1752,Morgan Land
+1081,Stanley Landes,1753,Stanley J Landes
+1082,Jeff Lengyel,1805,E jeffrey J Lengyel
+1083,Robert Lewis,395,John Robert Burger
+1084,John Lynch,291,John T Birmingham
+1085,Billie Jo Mason,2032,Billie Mason
+1086,Thomas McWilliams,484,Thomas Chan
+1087,Krishna Narayanamurti,2270,Krishna Narayanamurti
+1088,Richard Ollis,1307,Richard D Hendrickson
+1089,James Overman,2384,James M Overman
+1090,James Jennewein,310,James Bock
+1091,Rachel Pearl,211,Rachel Baumsteiger
+1092,Paul Petschek,2478,Paul Petschek
+1093,Anna Marie Piersimoni,144,Anna Avetisyan
+1094,Nancy Riley,1153,Nancy L Grass hemmert
+1095,Michael Rose,380,Michael Bruse
+1096,Hamidou Soumah,3004,Hamidou Soumah
+1097,Carley Steiner,3041,Carley Steiner
+1098,William Stratford,3062,William M Stratford
+1099,Jennifer Sturla,1311,Jennifer A Henningfield
+1100,John Vandergriff,797,John Dunn
+1101,Mary VerPlank,651,Mary A Cummins-prager
+1102,Alexander Weiss,3342,Alexander P Weiss
+1103,Hubert White,3360,Hubert W White
+1104,Alan Wu,386,Alan Buckley
+1105,Matthew Young,726,Matthew R Des lauriers
+1107,Rick Covington,626,Rick Covington
+1108,Prasanta Barkataki,184,Prasanta Barkataki
+1109,Mike Barnes,189,Mike Barnes
+1110,Kyle Dewey,734,Kyle Dewey
+1111,Steven Fitzgerald,934,Steven Fitzgerald
+1112,Peter N Gabrovsky,93,Mads Peter Sulbaek Andersen
+1113,Wen chin Hsu,1400,Wen chin Hsu
+1114,Adam B Kaplan,1545,Adam B Kaplan
+1115,Li Liu,1830,Bingbing Li
+1116,Richard J Lorentz,1898,Richard J Lorentz
+1117,Robert D McIlhenny,248,Robert Berg
+1118,Gloria Melara,2101,Gloria Melara
+1119,Katya Mkrtchyan,2174,Katya Mkrtchyan
+1120,Ani Nahapetian,2260,Ani Nahapetian
+1121,John Noga,289,John H Binkley
+1122,Son Pham,2480,Pauline Pham
+1123,Vahab Pournaghshband,2524,Vahab Pournaghshband
+1124,Steven G Stepanek,2341,Sharon G Oh
+1125,Taehyung Wang,3308,Taehyung Wang
+1126,Jeff Wiegley,3377,Jeff Wiegley
+1127,Mohammed Abdelrahim,3,Mohammed Abdelrahim
+1128,Jack D Alanen,46,Jack D Alanen
+1129,Afshin Amini,83,Afshin Amini
+1130,Sevak Asadorian,122,Sevak Asadorian
+1131,Tania Babakhanlou,155,Tania Babakhanlou
+1132,Cecile S Bendavid,236,Cecile S Bendavid
+1133,Ilia Benson,246,Ilia Benson
+1134,Vijay J Bhatt,276,Vijay J Bhatt
+1135,Dino Biel,282,Dino Biel
+1136,Mike Boctor,311,Mike Boctor
+1137,Adam Clark,560,Adam Clark
+1138,Steve Dan,673,Steve Dan
+1139,Harjit Dhillon,736,Harjit Dhillon
+1140,Patricia J Dousette,488,Kang J Chang
+1141,Jeffrey Drobman,786,Jeffrey Drobman
+1142,Matthew Fritz,726,Matthew R Des lauriers
+1143,Majid Haghoo,1216,Majid Haghoo
+1144,Andrew Hamilton,1230,Andrew Hamilton
+1145,Mani Heravi,1316,Mani Heravi
+1146,Sevada Isayan,1438,Sevada Isayan
+1147,Vahe Karamian,1553,Vahe Karamian
+1148,Nerces Kevork Kazandjian,1574,Nerces Kevork Kazandjian
+1149,George L Lazik,1153,Nancy L Grass hemmert
+1150,Launis Look,1884,Launis Look
+1151,Oscar Marin,2005,Oscar Marin
+1152,Sarkis Meguerdijian,2096,Sarkis Meguerdijian
+1153,Yevgeniya Mushkatblat,2253,Yevgeniya Mushkatblat
+1154,Esmaail M Nikjeh,757,Joy M Doan
+1155,Lucy Parker,2264,Lucy C Nalbandian
+1156,Charles R Putnam,2547,Charles R Putnam
+1157,Felix Rabinovich,2555,Felix Rabinovich
+1158,Joel Rarang,2578,Joel Rarang
+1159,Karl J Rink,133,Christopher J Aston
+1160,Chris Sales,2754,Chris Sales
+1161,Vicky Seno,2859,Vicky Seno
+1162,Lisa Smith,1261,Jerry A Harrel-smith
+1163,Zenaida C. Spradlin,616,Irene C Cota
+1164,Lawrence J Stein,3039,Lawrence J Stein
+1165,Shantaram Vasikarla,3245,Shantaram Vasikarla
+1166,Steven Wirsz,1124,Steven J Golightly
+1167,Matthew Worland,3424,Matthew Worland
+1168,Yu Senhua,3463,Senhua Yu
+1169,Bahram Zartoshty,3479,Bahram Zartoshty
+1170,Misak Zetilyan,3490,Misak Zetilyan
+1171,George R. Cannon,3440,Li R Ye
+1172,Philip Gilbert,1087,Philip Gilbert
+1173,Ruth Horgan,1734,Ruth Mee Jung Kwon
+1175,Robert W Lingard,765,Jim W Dole
+1176,Dorothy Miller,2302,Dorothy T Nguyen-graff
+1177,John Motil,291,John T Birmingham
+1178,David Salomon,308,David A Blumenkrantz
+1179,Diane L. Schwartz,1019,Diane Gallo
+1180,J. Michael Kabo,1525,J. Michael Kabo
+1181,Peter L Bishay,93,Mads Peter Sulbaek Andersen
+1182,Vibhav Durgesh,807,Vibhav Durgesh
+1183,Dr. Nhut Tan Ho,1355,Dr. Nhut Tan Ho
+1184,Hamid Johari,1493,Hamid Johari
+1185,Shadi Mahjoob,1963,Shadi Mahjoob
+1186,Abhijit Mukherjee,2239,Abhijit Mukherjee
+1187,Vidya K Nandikolla,451,Nanci K Carr
+1188,Stewart P Prince,2539,Stewart P Prince
+1189,Robert G Ryan,613,Anthony G Costantini
+1190,Christoph Schaal,2801,Christoph Schaal
+1191,Farooq Ahmad,38,Farooq Ahmad
+1192,Ravnesh C Amar,78,Ravnesh C Amar
+1193,Susan M Beatty,51,Alexander M Alekseenko
+1194,Khashayar Behdinan,224,Khashayar Behdinan
+1195,Erin Bishop,294,Erin Bishop
+1196,Thomas P Brown,373,Thomas P Brown
+1197,Shuo Hung Chang,486,Dan Chang
+1198,Nicholas Fabry,879,Nicholas Fabry
+1199,Shahram Farhangi,888,Shahram Farhangi
+1200,Melissa Flores,946,Melissa Flores
+1201,Niloufar Ghoreishi,1077,Niloufar Ghoreishi
+1202,Mark J Giljum,432,Christina J Campbell
+1203,Vahic H Goorjian,1138,Vahic H Goorjian
+1204,Sina M. Aboutorabi,43,David M Aks
+1205,Amiel Hartman,1272,Amiel Hartman
+1206,Guillermo A Herrera,307,Nancy A Blum
+1207,Serkan Kalender,1535,Serkan Kalender
+1208,Aram Khachatourians,1613,Aram Khachatourians
+1209,Mamdouh Y Khaled,1617,Mamdouh Y Khaled
+1210,Jongho Kwon,1732,Jongho Kwon
+1211,Manuel Magrane,1961,Manuel Magrane
+1212,Tanya Milovanova,2153,Tanya Milovanova
+1213,Serop Nalbandian,2265,Serop Nalbandian
+1214,Ali Nekouzadeh,84,Ali Amini
+1215,Shadwa Oddino,2334,Shadwa Oddino
+1216,Scott Ploen,108,Scott A Appelrouth
+1217,Zahid Rafique,2563,Zahid Rafique
+1218,Babak Shahpar,2876,Babak Shahpar
+1219,Mohab A Shalaby,1221,Demosthenes A Halcoussis
+1220,Lalit K Sharma,348,Rodney K Brecheen-kirkton
+1221,Ramtin Sheikhhassani,2901,Ramtin Sheikhhassani
+1222,Joel A Storch,306,Stephanie A. Bluestein
+1223,Feng Sun,1542,Sun-mee Kang
+1224,Robert B Tarn,2045,Christina B Mayberry
+1225,Alan Von Arx,3285,Alan Von Arx
+1226,Gopinath R Warrier,583,Reut R Cohen
+1227,Larry Caretto,445,Larry Caretto
+1228,Shoeleh S Di julio,118,Roger S Arst
+1230,Timothy W Fox,969,Timothy W Fox
+1231,Sidney H Schwartz,441,Eve H Caram
+1232,Sembiam R Rengarajan,156,Albert R Baca
+1233,Ali Amini,44,Ali Al-sharadqah
+1234,Nagi M El naga,51,Alexander M Alekseenko
+1235,Xiaojun (Ashley) Geng,128,Wendy J Ashley
+1236,Xiyi Hang,1245,Xiyi Hang
+1237,Ichiro Hashimoto,1278,Ichiro Hashimoto
+1238,Brad Jackson,1449,Brad Jackson
+1239,Ruting Jia,1486,Ruting Jia
+1240,George K Law,182,Carolyn K. Barbian
+1241,Ronald W Mehler,765,Jim W Dole
+1242,Shahnam Mirzaei,2165,Shahnam Mirzaei
+1243,Ignacio B Osorno,2378,Ignacio B Osorno
+1244,Jack Ou,46,Jack D Alanen
+1245,Matthew M Radmanesh,43,David M Aks
+1246,S K Ramesh,6,Varouj S Abkian
+1247,Ramin Roosta,2674,Ramin Roosta
+1248,Kourosh Sedghisigarchi,2850,Kourosh Sedghisigarchi
+1249,John Valdovinos,797,John Dunn
+1250,Deborah K Van alphen,205,Holly K Batty
+1251,Afshin Amini,83,Afshin Amini
+1252,Ahmad Bekir,226,Ahmad Bekir
+1253,Vijay J Bhatt,276,Vijay J Bhatt
+1254,Vaughn P Cable,413,Vaughn P Cable
+1255,Somnath Chattopadhyay,504,Somnath Chattopadhyay
+1256,Austin Chen,522,Austin Chen
+1257,Sequare K Daniel-Berhe,62,Daniel Alonzo
+1258,James A Flynn,306,Stephanie A. Bluestein
+1259,Shahryar Ghidari,1075,Shahryar Ghidari
+1260,Sina M. Aboutorabi,43,David M Aks
+1261,Neda Khavari,1619,Neda Khavari
+1262,Franco Mikhailidis,2139,Franco Mikhailidis
+1263,Farahnaz A Nezhad,1683,Sharron A Kollmeyer gerfen
+1264,Vahid R Riasati,2619,Vahid R Riasati
+1265,Soraya A Roosta,1221,Demosthenes A Halcoussis
+1266,Habib B Taouk,2045,Christina B Mayberry
+1267,Shahriar Vazan,3249,Shahriar Vazan
+1268,Mahmoud Z Youssef,3462,Mahmoud Z Youssef
+1269,Ali A Zahid,99,Richard A Andrews
+1270,John W. Adams,25,John P Adams
+1271,Nagwa Bekir,227,Nagwa Bekir
+1272,John Robert Burger,25,John P Adams
+1273,Willis Downing,782,Willis Downing
+1274,Benjamin F Mallard,79,Jose F Amaro
+1275,Nirmal Mishra,2166,Nirmal Mishra
+1276,Raymond Pettit,2479,Raymond Pettit
+1278,David Schwartz,1861,David Liu
+1279,Yuh Sun,1542,Sun-mee Kang
+1280,Nola J Kennedy,1592,Nola J Kennedy
+1281,Peter Bellin,93,Mads Peter Sulbaek Andersen
+1282,Thomas H Hatfield,441,Eve H Caram
+1283,Haifa Hughes,1414,Haifa Hughes
+1284,Antonio F Machado,1944,Antonio F Machado
+1285,Rania A. Sabty-Daily,19,Maria A Acuna
+1286,John E Schillinger,25,John P Adams
+1287,Michael J Sullivan,138,Michael Auer
+1288,Veronica Becerra,219,Veronica Becerra
+1289,George E Brogmus,363,George E Brogmus
+1290,David Bueche MS,388,David Bueche  MS
+1291,Elizabeth Chung,1610,Elizabeth Keyishian Wilks
+1292,James H Gibson,1093,Fred H Ginsburg CAS PhD
+1293,Christopher D Harden,18,Megan D Aclan
+1294,Sandy H Murray,1093,Fred H Ginsburg CAS PhD
+1296,Gevork Kazanchyan,1573,Gevork Kazanchyan
+1297,Ryan S Kinsella,902,Crystal lane S Ferguson
+1298,Rebecca Lustig,1772,Rebecca  Spitler-Lawson
+1299,Jeff Mueller,2238,Jeff Mueller
+1301,Jennifer Newman,1311,Jennifer A Henningfield
+1302,Maurice M Oillataguerre,24,Janet M Adams
+1304,Owen H Seiver,1093,Fred H Ginsburg CAS PhD
+1305,Anton D Lowenberg,1908,Anton D Lowenberg
+1306,Kenneth S Chapman,497,Kenneth S Chapman
+1307,Demosthenes A Halcoussis,0,Iris A'Hirataro
+1308,Kent M Hymel,51,Alexander M Alekseenko
+1309,Tom K Lee,123,Brittany K Asaro
+1310,Leah E Marcal,701,Maria E De las carreras
+1311,Jon J Nadenichek,216,Jon Beadle
+1312,Kenneth Ng,497,Kenneth S Chapman
+1313,Soma Patra,2442,Soma Patra
+1314,Nancy L Virts,566,Rebecca L Clark mane
+1315,Douglas G Whitman,2341,Sharon G Oh
+1317,Gabriel P Axarlian,1,Jose P Abara
+1318,Guillermo E Cruz,645,Guillermo E Cruz
+1319,David T Fractor,462,David Cary
+1320,James Gikas,174,James David Ballard
+1321,Shane Moshiri,2228,Shane Moshiri
+1322,Rose Payan,1680,Myriam-rose Kohn
+1323,Thomas L Thomas,1373,Ray L Hong
+1324,Richard L Tontz,1373,Ray L Hong
+1325,Ahmad Vessal,3263,Ahmad Vessal
+1326,Gary Anderson,95,Gary Anderson
+1327,Daniel R Blake,301,Daniel R Blake
+1328,William Brown,331,William Bowen
+1330,Adam Gifford,1083,Adam Gifford
+1331,William Hosek,1385,William Hosek
+1332,Ivan Johnson,1266,Nicole Harris Johnson
+1333,Robert C Krol,397,Sloane C Burke-Winkelman
+1335,Roscoe M Needles,757,Joy M Doan
+1336,William W Roberts,765,Jim W Dole
+1338,Shirley V Svorny,3098,Shirley V Svorny
+1339,Ben Yu,234,Moshe Ben asher
+1340,Damian J Christian,488,Kang J Chang
+1341,Igor Beloborodov,233,Igor Beloborodov
+1342,Anna Bezryadina,274,Anna Bezryadina
+1343,Ana C Cadavid,397,Sloane C Burke-Winkelman
+1344,Debi prasad Choudhary,542,Debi prasad Choudhary
+1345,Li Gao,1031,Li Gao
+1346,Nicholas Kioussis,1651,Nicholas Kioussis
+1347,Kah Chun Lau,1764,Kah Chun Lau
+1348,Say-peng Lim,1840,Say-peng Lim
+1349,Gang Lu,1915,Gang Lu
+1350,Tyler A Luchko,306,Stephanie A. Bluestein
+1351,Wladimir Lyra,1935,Wladimir Lyra
+1352,Miroslav Peric,2467,Miroslav Peric
+1353,H.W.Ch. Postma,1093,Fred H Ginsburg CAS PhD
+1354,Radha Ranganathan,2574,Radha Ranganathan
+1355,Deqing Ren,2602,Deqing Ren
+1356,Luca Ricci,2620,Luca Ricci
+1357,Dong-ning Sheng,2906,Dong-ning Sheng
+1358,Yohannes Shiferaw,2914,Yohannes Shiferaw
+1359,Sattar Taheri-Araghi,3119,Sattar Taheri-Araghi
+1360,Xu Zhang,3492,Xu Zhang
+1361,Behnam Amlashi,88,Behnam Amlashi
+1362,David Berkowitz,256,David Berkowitz
+1363,Eric M Collins,51,Alexander M Alekseenko
+1364,Jaime L Conner,598,Jaime L Conner
+1365,Konstantin P Daskalov,1,Jose P Abara
+1366,Jan J Dobias,133,Christopher J Aston
+1367,Lucas L Haley,566,Rebecca L Clark mane
+1368,Karapet Karapetyan,1554,Karapet Karapetyan
+1369,Justin W Miller,765,Jim W Dole
+1370,Farisa Y Morales,1637,Joo Y Kim
+1371,Sergio E Orozco,701,Maria E De las carreras
+1372,Oshiro Thomas,2052,Thomas R Mccambridge
+1373,Henning Ottsen,2381,Henning Ottsen
+1374,Tony S Rowe,236,Cecile S Bendavid
+1375,Parvaneh Semsar,2858,Parvaneh Semsar
+1376,Mesfin Taye,3134,Mesfin Taye
+1377,Ronald H Wallingford,215,Jane H Bayes
+1378,Barney L Bales,170,Barney L Bales
+1379,Gary A Chapman,306,Stephanie A. Bluestein
+1380,Paul Chow,1670,Paul Klinedinst
+1381,Peter Collas,93,Mads Peter Sulbaek Andersen
+1382,Duane R Doty,464,Roslynn R Casterline
+1383,John Lawrence,575,M Lawrence Clevenson
+1384,Paul L Lee,80,Deborah L Amelon
+1387,Roy Olson,165,Phyllis karren Baird-olson
+1388,Robert T. Park,2302,Dorothy T Nguyen-graff
+1390,Robert Romagnoli,968,Robert Fox
+1392,Ryoichi Seki,2855,Ryoichi Seki
+1393,Kent B Baxter,214,Kent B Baxter
+1394,Scott D Andrews,100,Scott D Andrews
+1395,Dorothy M Barresi,43,David M Aks
+1396,Michael E Bryson,383,Michael E Bryson
+1397,Lauren Byler,411,Lauren Byler
+1398,Mauro Carassai,442,Mauro Carassai
+1399,Ranita Chatterjee,503,Ranita Chatterjee
+1400,Dorothy G Clark,560,Adam Clark
+1401,Irene L Clark,564,Irene L Clark
+1402,Anthony D Dawahare,418,David D Cain
+1403,John J. Garcia,797,John Dunn
+1404,Katharine K Haake,1205,Katharine K Haake
+1405,Leilani R Hall,665,Maria-rita R D'orsogna
+1406,Charles Hatfield,1282,Charles Hatfield
+1407,Tomo Hattori,1286,Tomo Hattori
+1408,Christopher Higgs,531,Christopher Childs
+1409,Krystal Jo Howard,1391,Krystal Jo Howard
+1410,Santosh Khadka,1616,Santosh Khadka
+1411,Sharon M Klein,51,Alexander M Alekseenko
+1412,Scott Kleinman,1664,Scott Kleinman
+1413,Jennifer C Lee,397,Sloane C Burke-Winkelman
+1414,Rick Mitchell,2169,Rick Mitchell
+1415,Nicole M. Morris Johnson,24,Janet M Adams
+1416,Iswari P Pandey,2407,Iswari P Pandey
+1417,Martin Pousson,2525,Martin Pousson
+1418,Enchao Shi,2912,Enchao Shi
+1419,James F Solomon,310,James Bock
+1420,Cheryl Spector,3010,Cheryl Spector
+1421,Danielle Spratt,3019,Danielle Spratt
+1422,Jackie E. Stallcup,197,Eli E Bartle
+1423,Sandra L Stanley,1373,Ray L Hong
+1424,Colleen M. Tripp,757,Joy M Doan
+1425,Steven Wexler,2364,Steven B Oppenheimer
+1426,Beth A Wightman,1221,Demosthenes A Halcoussis
+1427,Karen Abramowitz,9,Karen Abramowitz
+1428,Dylan B Altman,66,Dylan B Altman
+1429,Jose R Alvarez,69,Jose R Alvarez
+1430,Wafa Azeem,151,Wafa Azeem
+1431,Jeffrey S Baker,167,Jeffrey S Baker
+1432,Eric S Barnhart,190,Eric S Barnhart
+1433,Jon Beadle,216,Jon Beadle
+1434,Tina M Bertacchi-love,24,Janet M Adams
+1435,Stacey E Bieber,280,Stacey E Bieber
+1436,Teresa S Boyer,335,Teresa S Boyer
+1437,Kimmerly D Brady,341,Kimmerly D Brady
+1438,Eve H Caram,441,Eve H Caram
+1439,Kimberly T Carroll,457,Kimberly T Carroll
+1440,Sonia Chumber,551,Sonia Chumber
+1441,Glenn J Collins,593,Glenn J Collins
+1442,Kenneth J Cran,636,Kenneth J Cran
+1443,Janet Cross,640,Janet Cross
+1444,Anna Dawahare,663,Anna Dawahare
+1445,Eric H Dinsmore,688,Eric Davis
+1446,Corri Ditch,753,Corri Ditch
+1447,Nicole M Eschen,757,Joy M Doan
+1448,Melissa E Filbeck,919,Melissa E Filbeck
+1449,Mildred Fuentes,994,Mildred Fuentes
+1450,Roza S Gabrielyan,938,Eve S Fleck
+1451,Joseph A Galasso,1011,Joseph A Galasso
+1452,Shadi Ganjavi,1028,Shadi Ganjavi
+1453,Tatevik Gazaryan,1057,Tatevik Gazaryan
+1454,John C Gides,395,John Robert Burger
+1455,Jessica L Glick,1103,Jessica L Glick
+1456,A. Star Glover,306,Stephanie A. Bluestein
+1457,Mary E Griffith,550,Mary Chua
+1458,Amanda M Harrison,43,David M Aks
+1459,Emily A Havey,306,Stephanie A. Bluestein
+1460,Andrea P Hernandez,1,Jose P Abara
+1461,Victoria A Horen,1221,Demosthenes A Halcoussis
+1462,Loretta Huizar,1416,Loretta Huizar
+1463,Sandra B Jackson,1455,Sandra B Jackson
+1464,Robert M Kane,51,Alexander M Alekseenko
+1465,Anne E Kellenberger,197,Eli E Bartle
+1466,Andzhela Keshishyan,1604,Andzhela Keshishyan
+1467,Sharron A Kollmeyer gerfen,0,Iris A'Hirataro
+1468,Kelan L Koning,1153,Nancy L Grass hemmert
+1469,Whitney M Kosters,43,David M Aks
+1470,John Kubler,291,John T Birmingham
+1471,Eric Kufs,190,Eric S Barnhart
+1472,Noreen V Lace,1738,Noreen V Lace
+1473,Kathy A Roman,306,Stephanie A. Bluestein
+1474,Rebecca Spitler-Lawson,1195,Rebecca Guinn
+1475,Stephanie Lim,238,Stephanie M Benjamin
+1476,Melisa Malvin,1983,Melisa Malvin
+1477,Susana N Marcelo,1997,Susana N Marcelo
+1478,Joanne M Martin,757,Joy M Doan
+1479,Terrie D Mathis,724,Nazaret Dermendjian. Ph.D.
+1480,Arthur Maturo,2041,Arthur Maturo
+1481,Richard W Mcginis,765,Jim W Dole
+1482,Jacqueline S Meisel,118,Roger S Arst
+1483,Lynnette Morinini,2219,Lynnette Morinini
+1484,Kitty Nard,2271,Kitty Nard
+1485,Amber L Norwood,1373,Ray L Hong
+1486,Linda R Overman,2385,Linda R Overman
+1487,Trista R Payte,665,Maria-rita R D'orsogna
+1488,Sean E Pessin,701,Maria E De las carreras
+1489,Gretchelle Quiambao,2550,Gretchelle Quiambao
+1490,Amy L Reynolds,1153,Nancy L Grass hemmert
+1491,Jennifer Rodrick,2456,Jennifer Vargas Pemberton
+1492,Mahta Rosenfeld,2686,Mahta Rosenfeld
+1493,Kate Martin Rowe,2701,Kate Martin Rowe
+1494,Kelly A Rowley,306,Stephanie A. Bluestein
+1495,Emmanuel Sabaiz-birdsill,2739,Emmanuel Sabaiz-birdsill
+1496,Jutta L Schamp,1153,Nancy L Grass hemmert
+1497,Michael Schofield,2827,Michael Schofield
+1498,Heidi A Schumacher,307,Nancy A Blum
+1499,Kirk Sever,2865,Kirk Sever
+1500,Diana J Shamiryan,2633,Karl J Rink
+1501,Mary Shannon,651,Mary A Cummins-prager
+1502,Cheryl G Slobod,2959,Cheryl G Slobod
+1503,Patricia J Swenson,488,Kang J Chang
+1504,Nancy A Taylor,306,Stephanie A. Bluestein
+1505,Audrey B Thacker,3152,Audrey B Thacker
+1506,Anna Tripp,274,Anna Bezryadina
+1507,Maria M Turnmeyer,43,David M Aks
+1508,Vilma Villela,3273,Vilma Villela
+1509,Kimberly Wells,3349,Kimberly  Wells
+1510,Kimberly D Young,724,Nazaret Dermendjian. Ph.D.
+1511,Richard Abcarian,3470,Richard Zakarian
+1512,David Andersen,92,David Andersen
+1513,Joel Athey,135,Joel Athey
+1514,Guillermo Bartelt,195,Guillermo Bartelt
+1516,Robert Chianese,528,Robert Chianese
+1517,JOHN CLENDENNING,572,JOHN CLENDENNING
+1518,Lary H. Gibson,1080,Lary H. Gibson
+1519,Philip Handler,1240,Philip Handler
+1520,Harold L Hellenbrand,369,Jodi L Brown
+1522,Barbara Kroll,834,Barbara A Eisenstock
+1523,Jack R Lopez,464,Roslynn R Casterline
+1524,Patricia Murray,55,Patricia Alford-Keating
+1525,Robert G Noreen,968,Robert Fox
+1526,Robert T. Oliphant,248,Robert Berg
+1529,Robert Reid III,968,Robert Fox
+1530,Iris Shah,0,Iris A'Hirataro
+1535,George R Uba,464,Roslynn R Casterline
+1536,William Walsh,3303,William Walsh
+1537,Patricia Watkins,3325,Patricia Watkins
+1538,Warren Wedin,3334,Warren Wedin
+1539,Thomas Wright,2052,Thomas R Mccambridge
+1540,Flavia S Fleischer,118,Roger S Arst
+1541,Jordan T Eickman,830,Jordan T Eickman
+1542,Carla Garc�a-Fern�ndez,19,Maria A Acuna
+1543,William G Garrow,1052,William G Garrow
+1544,Lissa D Stapleton,3030,Lissa D Stapleton
+1546,Matthew Daigle,667,Matthew Daigle
+1547,Desiree Duong,801,Desiree Duong
+1548,Stephanie E Durand,197,Eli E Bartle
+1549,Joshua Feldman,898,Joshua Feldman
+1550,Christine L Firkins,369,Jodi L Brown
+1551,Katherine A Firkins,307,Nancy A Blum
+1552,Jessica Frank,975,Jessica Frank
+1553,Evelina A Gaina,1007,Evelina A Gaina
+1554,Joel Garcia,1036,Herlinda T Garcia
+1555,Jaspreet Ghotra,1078,Jaspreet Ghotra
+1556,Leslie Greer,1170,Leslie Greer
+1557,Cynthia L Herbst,1317,Cynthia L Herbst
+1558,Justin L Jackerson,369,Jodi L Brown
+1559,Allisun Kale,1534,Allisun Kale
+1560,Charles N Katz,1550,Stavros N Karageorgis
+1561,Shmuel Khorsandi,1622,Shmuel Khorsandi
+1562,Thomas S Korn,642,Michael S Crosswhite
+1563,Catherine D Kroener,418,David D Cain
+1564,Marina L Lavelle,1373,Ray L Hong
+1565,Alek M Lev,13,Bernardo M Abrego
+1566,Desiree Love,263,Tina M Bertacchi-love
+1567,Jennifer Marfino,2456,Jennifer Vargas Pemberton
+1568,Brandon Marin,2004,Brandon Marin
+1569,Cole J Mccandless,2053,Cole J Mccandless
+1570,Kay Oldfather-Daigle,2349,Kay Oldfather-Daigle
+1571,John Pak,25,John P Adams
+1572,Jeff Pollock,2513,Jeff Pollock
+1573,Jonathan Reynolds,2613,Jonathan Reynolds
+1574,Justin Reynolds,2614,Justin Reynolds
+1575,Jacob Shamberg,2881,Jacob Shamberg
+1576,Kimberly Smith,2965,Kimberly Smith
+1577,Shoshannah O Stern,3044,Cindy Stern
+1578,Lee Ann Tang,3127,Lee Ann Tang
+1579,Casey Thornton,3166,Casey Thornton
+1580,Maria D Vazquez-low,418,David D Cain
+1581,Jonathan Webb,3241,Jonathan Vandergriff
+1582,Jevon Whetter,3356,Jevon Whetter
+1583,Melissa Yingst Huber,1406,Mark Huber
+1584,Nicholas Zerlentes,3489,Nicholas Zerlentes
+1585,Jody E Dunlap,701,Maria E De las carreras
+1586,Jack Bagwell,162,Jack Bagwell
+1587,Richard T Castallo,463,Richard T Castallo
+1588,Miguel A Ceja,306,Stephanie A. Bluestein
+1589,William P Delatorre,1,Jose P Abara
+1590,Nathan R Durdella,628,Annie R Cox
+1591,Ellen Edeburn,816,Ellen Edeburn
+1592,Christine A Hayashi,307,Nancy A Blum
+1593,Dimpal Jain,1463,Dimpal Jain
+1594,Wendy W Murawski,765,Jim W Dole
+1595,Zhixin Su,3073,Zhixin Su
+1596,Elyse E Sullivan,1345,Martha E Highfield PhD RN
+1597,Thomas J Abraham,8,Thomas J Abraham
+1598,Ifeoma Amah,77,Ifeoma Amah
+1599,Trudy T Arriaga,116,Trudy T Arriaga
+1600,Mariane Doyle,121,Mariane Doyle
+1601,Noelle V Banuelos,178,Noelle V Banuelos
+1602,Jerry E Barshay,194,Jerry E Barshay
+1603,Michael B Bennett,241,Michael B Bennett
+1604,Michelle F Bennett,79,Jose F Amaro
+1605,Rashitta Z Brown-elize,368,Betty A Brown
+1606,Raul Cardoza,444,Raul Cardoza
+1607,Robert M Cuen,51,Alexander M Alekseenko
+1608,Edward Curammeng,653,Edward Curammeng
+1609,Howard Davis,690,Howard Davis
+1610,Jeffrey A Davis,688,Eric Davis
+1611,Maureen S Diekmann,118,Roger S Arst
+1612,Caroline Q Durdella,805,Caroline Q Durdella
+1613,Joshua N Einhorn,831,Joshua N Einhorn
+1614,Erika Endrijonas,854,Erika Endrijonas
+1615,Judith A Fish,306,Stephanie A. Bluestein
+1616,Hawa Ghaus-Kelley,1071,Hawa Ghaus-Kelley
+1617,Bernard Kleiner,1663,Bernard Kleiner
+1618,Carol Kozeracki,1703,Carol Kozeracki
+1619,Jennifer Lozano,1311,Jennifer A Henningfield
+1620,Joan Lucid,1917,Joan Lucid
+1621,Thomas R Mccambridge,156,Albert R Baca
+1622,Raquel Michel,2135,Raquel Michel
+1623,Petronella K Montante,205,Holly K Batty
+1624,Lawrence H Moore,1748,H Lammers
+1625,Amita Naganand,2259,Amita Naganand
+1626,Marco Nava,2273,Marco Nava
+1627,Sharon G Oh,146,Guillermo G Aviles
+1628,Michele A Parsons,1683,Sharron A Kollmeyer gerfen
+1629,Drew Passalacqua,2439,Drew Passalacqua
+1630,Monte Perez,954,Maureen Fondevilla-Perez
+1631,Merle E Price,701,Maria E De las carreras
+1632,William Purdy,2546,William Purdy
+1633,Rosalind L Raby,1373,Ray L Hong
+1634,Robert A Samples,968,Robert Fox
+1635,Marcee Seegan,2851,Marcee Seegan
+1636,Guadalupe H Simpson,215,Jane H Bayes
+1637,Michael Smith,642,Michael S Crosswhite
+1638,Ricardo Sosapavon,2999,Ricardo Sosapavon
+1639,Victor Torres,1046,Rosalia Garcia-Torres
+1640,Christopher Villa,3268,Christopher Villa
+1641,Daniel G Villanueva,1270,Daniel Hart
+1642,Erin Vines,1051,Erin Garrovillas
+1643,Anne dao T Vo,2302,Dorothy T Nguyen-graff
+1644,Tara Watford,3323,Tara Watford
+1645,Susan Auerbach,140,Susan Auerbach
+1646,Carolyn L Ellner,847,Carolyn L Ellner
+1647,roy fitch,933,roy fitch
+1648,Jason Joh,1199,Jason Gurtovoy
+1649,Robert E Kladifko,248,Robert Berg
+1650,Nathan Kravetz,1709,Nathan Kravetz
+1651,Charles Manley,1628,Charles Killingsworth
+1652,Christa Metzger,2128,Christa Metzger
+1653,Elliot Mininberg,2159,Elliot Mininberg
+1654,Philip Rusche,2724,Philip Rusche
+1655,John Schulte,395,John Robert Burger
+1656,Antonia Sims,2944,Antonia Sims
+1657,William Thomas,2087,Thomas Mcwilliams
+1659,Alberto F Restori,2303,F Nichelson
+1660,Joannie Busillo-Aguayo,37,Joannie Busillo-Aguayo
+1661,Beverly J Cabello,412,Beverly J Cabello
+1662,Stanley Charnofsky,500,Stanley Charnofsky
+1663,Diane R Gehart,665,Maria-rita R D'orsogna
+1664,Pete G Goldschmidt,1122,Pete G Goldschmidt
+1665,Wilda Laija-Rodriguez,1743,Wilda Laija-Rodriguez
+1666,Carolyn Jeffries,1957,Carolyn Jeffries
+1667,Shyrea J Minton,2161,Shyrea J Minton
+1668,Jennifer Vargas Pemberton,262,Jennifer L Berry
+1669,Carrie S Rothstein-Fisch,6,Varouj S Abkian
+1670,Tovah Sands,2775,Tovah Sands
+1671,Merril Simon,2940,Merril Simon
+1672,Mark A Stevens,306,Stephanie A. Bluestein
+1673,Dana J Stone,133,Christopher J Aston
+1674,Shari Tarver Behring,3132,Shari Tarver Behring
+1675,Marcia Albert,49,Marcia Albert
+1676,Marcia Albert,49,Marcia Albert
+1677,Cyndee S Bellamy,231,Cyndee S Bellamy
+1678,Sharon K Bernard,259,Sharon K Bernard
+1679,Juliette Boewe,312,Juliette Boewe
+1680,Michele Bowes,332,Michele Bowes
+1681,Bruce C Burnam,397,Sloane C Burke-Winkelman
+1682,Sloane J Burt,397,Sloane C Burke-Winkelman
+1683,Deborah Buttitta,409,Deborah Buttitta
+1684,Ben Caldwell,421,Ben Caldwell
+1685,Martha A Carr,306,Stephanie A. Bluestein
+1686,Jose Carranza,453,Jose Carranza
+1687,Roslynn R Casterline,156,Albert R Baca
+1688,Benita G Chaum,506,Benita G Chaum
+1689,Jos� M. Ch�vez,51,Alexander M Alekseenko
+1690,Yajaira Curiel,655,Yajaira Curiel
+1691,Serena Cwiak,661,Serena Cwiak
+1692,Nyla J Dalferes,670,Nyla J Dalferes
+1693,Michele DeRosa,725,Michele DeRosa
+1694,Darcy Edwards,822,Darcy Edwards
+1695,Franklin W Ellis,765,Jim W Dole
+1696,Clovis Emblen-Scarpaci,849,Clovis Emblen-Scarpaci
+1697,Bethany Evans,873,Bethany Evans
+1698,Claudia L Finkel,922,Claudia L Finkel
+1699,Jesse Flores,945,Jesse Flores
+1700,Evelyn T Garcia,1034,Evelyn T Garcia
+1701,Max Garcia,1032,Elizabeth Garcia
+1702,James P Geary,682,Konstantin P Daskalov
+1703,Michael S Geisser,938,Eve S Fleck
+1704,Catherine E Givertz,197,Eli E Bartle
+1705,Kim L Goldberg-roth,4,Kim Abeles
+1706,Joan Golden,1117,Joan Golden
+1707,Matthew Goodlaw,1135,Matthew Goodlaw
+1708,Tessa Graham,1148,Tessa Graham
+1709,Monicka E Guevara,1192,Monicka E Guevara
+1710,Debra L Hammond,1236,Debra L Hammond
+1711,Sue Harris,1264,Matthew L Harris
+1712,Devin Harvey,1274,Devin Harvey
+1713,Jeffrey J Hupp,1419,Jeffrey J Hupp
+1714,Nadia Jones,1368,Stacy L Holman jones
+1715,Angela C Kahn,397,Sloane C Burke-Winkelman
+1716,Stacy Levine,1368,Stacy L Holman jones
+1717,Pariza A Karamali,1552,Pariza A Karamali
+1718,Carine Keenan,1580,Carine Keenan
+1719,Jamison J Keller,1586,Jamison J Keller
+1720,Melani Kovarkizi,1700,Melani Kovarkizi
+1721,Timmy E Lee,28,Kathleen E Addison
+1722,Katherine E Leon,1345,Martha E Highfield PhD RN
+1723,Tricia L Lethcoe,1373,Ray L Hong
+1724,Kingson Leung,1816,Kingson Leung
+1725,Charlene Liebau,1834,Charlene Liebau
+1726,Sarina J Loeb,432,Christina J Campbell
+1727,Diana L Losey,566,Rebecca L Clark mane
+1728,Eric C Lyden,322,Eric Bordenkircher
+1729,Lucille L Macis,1373,Ray L Hong
+1730,Gretchen K Maldonado,205,Holly K Batty
+1731,Sonya A Manjikian,1683,Sharron A Kollmeyer gerfen
+1732,Karen Mariano,1675,Karen A Kochis-jennings
+1733,Joyce L Medley,1153,Nancy L Grass hemmert
+1734,Peter Mora,93,Mads Peter Sulbaek Andersen
+1735,Ronald Newman,2293,Ronald Newman
+1736,Dorothy O'Neill,2329,Dorothy O'Neill
+1737,Daphna Ozery,2392,Daphna Ozery
+1738,Armine Papazian,2412,Armine Papazian
+1739,Vessela Papazova,2413,Vessela Papazova
+1740,Donna L Pioli,566,Rebecca L Clark mane
+1741,Sonia Preciado-Corona,551,Sonia Chumber
+1742,Jean C Ramage,397,Sloane C Burke-Winkelman
+1743,Cecilia Raufman,2583,Cecilia Raufman
+1744,Herman Rodriguez,2659,Herman Rodriguez
+1745,Serina Rosenkjar,2687,Serina Rosenkjar
+1746,Ian Russ,2726,Ian Russ
+1747,Vadeesh Saggar,2745,Vadeesh Saggar
+1748,Stephen Scheff,2806,Stephen Scheff
+1749,Cecile G Schwedes,2341,Sharon G Oh
+1750,Shannon R Sexton,2868,Shannon R Sexton
+1751,Roman Shain,2878,Roman Shain
+1752,Anthony Sherrill,2910,Anthony Sherrill
+1753,April Slaughter,2955,April Slaughter
+1754,Clare Sobel,2985,Clare Sobel
+1755,Mark Souris,1603,Khanik Mark Kerobyan
+1756,Nicholas Stauth,3033,Nicholas Stauth
+1757,Ellen Stohl,2822,Ellen S Schneiderman
+1758,Katherine Swain,3100,Katherine Swain
+1759,Deanne B Torvinen,3188,Deanne B Torvinen
+1760,Alejandra Trujillo Arevalo,3205,Jose S Trujillo
+1761,German W Velasco,765,Jim W Dole
+1762,Anthony Ventura,3258,Anthony Ventura
+1763,Paul Vogel,1670,Paul Klinedinst
+1764,Ashley N Walker,3295,Ashley N Walker
+1765,Loretta L Whitson,1159,Glen L Gray
+1766,Madhavi Williams,3387,Madhavi Williams
+1767,Louis Willoughby,3395,Louis Willoughby
+1768,William Zasadil,3480,William Zasadil
+1769,Michael Auer,138,Michael Auer
+1770,Augusto Britton Del Rio,356,Augusto Britton Del Rio
+1772,Arthur Charlap-Hyman,2041,Arthur Maturo
+1773,Marvin Chernoff,526,Marvin Chernoff
+1774,Elizabeth Crane,1610,Elizabeth Keyishian Wilks
+1775,Robert L Docter,761,Robert L Docter
+1776,Donald Dorsey,774,Donald Dorsey
+1777,George M. Ferrell,43,David M Aks
+1778,Janet E Fish,28,Kathleen E Addison
+1779,Adele E Gottfried,1144,Adele E Gottfried
+1781,Rie R Mitchell,665,Maria-rita R D'orsogna
+1782,Sarah Moskovitz,2229,Sarah Moskovitz
+1783,Bernard Nisenholz,2311,Bernard Nisenholz
+1785,Kathryn D Peckham-Hardin,18,Megan D Aclan
+1786,Tamarah M Ashton,130,Tamarah M Ashton
+1787,Nancy D Burstein,403,Nancy D Burstein
+1788,Zhen Chai,479,Zhen Chai
+1789,Rachel Friedman Narr,985,Rachel Friedman Narr
+1790,Vanessa A Goodwin,1137,Vanessa A Goodwin
+1791,Michele Haney,1244,Michele Haney
+1792,Amy N Hanreddy,1247,Amy N Hanreddy
+1793,Virginia E Kennedy,197,Eli E Bartle
+1794,Beth A Lasky,108,Scott A Appelrouth
+1795,Wendy W Murawski,765,Jim W Dole
+1796,Ellen S Schneiderman,118,Roger S Arst
+1797,Sue Sears,2849,Sue Sears
+1798,Sally A Spencer,1221,Demosthenes A Halcoussis
+1799,Ivor Weiner,3338,Ivor Weiner
+1800,Meredith R Adams,27,Meredith R Adams
+1801,Howard Alpert,64,Howard Alpert
+1802,Melanie Badgen,158,Melanie Badgen
+1803,Monica C Boomgard,318,Monica C Boomgard
+1804,Kiersten Cluster,577,Kiersten Cluster
+1805,Judith Coryell,611,Judith Coryell
+1806,Annie R Cox,52,Nicholas R Aleman
+1807,Marcy P Dann,147,Gabriel P Axarlian
+1808,Cheryl D Etting,724,Nazaret Dermendjian. Ph.D.
+1809,Mallorie Evans,876,Mallorie Evans
+1810,Vindia Fernandez,906,Vindia Fernandez
+1811,Susan Friedman,899,Susan Feldman
+1812,Margaret Gallagher,1013,Margaret Gallagher
+1813,Rhonda Glowalla,1106,Rhonda Glowalla
+1814,Richard L Goldman,1120,Richard L Goldman
+1815,Nancy Goldstone,1123,Nancy Goldstone
+1816,Senta Greene,1165,Senta Greene
+1817,Phyllis J Gudoski,165,Phyllis karren Baird-olson
+1818,Craig H Hopkins,1093,Fred H Ginsburg CAS PhD
+1819,Debra L Huntsman-lannom,170,Barney L Bales
+1820,Stephanie E Johnson,197,Eli E Bartle
+1821,Karen A Kass,108,Scott A Appelrouth
+1822,Elia Mahoney,1965,Elia Mahoney
+1823,Laurel L Martinez,1159,Glen L Gray
+1824,Julie A Mclean,306,Stephanie A. Bluestein
+1825,Gregory R Messigian,583,Reut R Cohen
+1826,Charlotte Mucchetti,2237,Charlotte Mucchetti
+1827,Richard A Pendleton,307,Nancy A Blum
+1828,Cristina Preuss,2536,Cristina Preuss
+1829,Molly Rearick,2592,Molly Rearick
+1830,Kristen Reichel,2596,Kristen Reichel
+1831,Sandra K Ritter,348,Rodney K Brecheen-kirkton
+1832,Dorene Rubin,2711,Dorene Rubin
+1833,Mary T Schillinger,550,Mary Chua
+1834,Christine A Schnieders,19,Maria A Acuna
+1835,Carol J Shapiro,2889,Carol J Shapiro
+1836,Scott Shepard,2907,Scott Shepard
+1837,Ellen Stohl,2822,Ellen S Schneiderman
+1838,Kimberly Straaberg,3060,Kimberly Straaberg
+1839,J STRUMWASSER,432,Christina J Campbell
+1840,Erin P Studer,682,Konstantin P Daskalov
+1841,Heather Stuve,3072,Heather Stuve
+1842,Joannie S Summers,938,Eve S Fleck
+1843,Tina Valdez,263,Tina M Bertacchi-love
+1844,Jennifer Walker,1311,Jennifer A Henningfield
+1845,Margery Wert,3352,Margery Wert
+1846,Rachel Woodward,3423,Rachel Woodward
+1847,Kenneth Armstrong,1790,Kenneth Lee
+1849,Anna Bisno,274,Anna Bezryadina
+1850,Deborah A Chen,306,Stephanie A. Bluestein
+1851,Lynne Cook,601,Lynne Cook
+1852,Ruth Forer,1734,Ruth Mee Jung Kwon
+1853,Joyce Hagen,365,Joyce L Broussard
+1855,BARBARA KULIK,834,Barbara A Eisenstock
+1856,Grace Lee,1786,Jennifer C Lee
+1857,Joyce R Linden,665,Maria-rita R D'orsogna
+1858,Richard Mesaros,2121,Richard Mesaros
+1859,Mira Pak,2402,Mira Pak
+1860,Susan F Belgrad,228,Susan F Belgrad
+1861,Raymond J Brie,351,Raymond J Brie
+1862,Joyce H Burstein,402,Joyce H Burstein
+1863,Sandra B Chong,541,Sandra B Chong
+1864,Shartriya M Collier,43,David M Aks
+1865,Irene C Cota,397,Sloane C Burke-Winkelman
+1866,Lynn Gordon,1139,Lynn Gordon
+1867,Gregory D Knotts,724,Nazaret Dermendjian. Ph.D.
+1868,David Kretschmer,462,David Cary
+1869,Minsung Kwon,1733,Minsung Kwon
+1870,Nancy L O'Rode,1153,Nancy L Grass hemmert
+1871,John M Reveles,51,Alexander M Alekseenko
+1872,Connie L White,1153,Nancy L Grass hemmert
+1873,Renata M Ziolkowska,43,David M Aks
+1874,Joan M Baca,13,Bernardo M Abrego
+1875,Paula Bennett,243,Paula Bennett
+1876,Seth E Cutler,660,Seth E Cutler
+1877,Judith Dichter,740,Judith Dichter
+1878,Barbara Friedrich,986,Barbara Friedrich
+1879,Jill Frieze,989,Jill Frieze
+1880,Kimberly Garcia,1039,Kimberly Garcia
+1881,Jeremiah Gonzalez,1129,Jeremiah Gonzalez
+1882,Debra Hammill,1234,Debra Hammill
+1883,Hillary Hertzog,1338,Hillary Hertzog
+1884,Suzanne C Hofmann,1022,Margeaux aegel C Gamboa-wong
+1885,Stephen R Holle,1366,Stephen R Holle
+1886,Ruth James,174,James David Ballard
+1887,Byung J Jhung,432,Christina J Campbell
+1888,Susan S Lasken,902,Crystal lane S Ferguson
+1889,Genein M Letford,757,Joy M Doan
+1890,Wendy Levine,1279,Wendy E Hassenpflug
+1891,Ota L Lutz,80,Deborah L Amelon
+1892,Karen Marks,448,Karen Dee Carpenter
+1893,Stefanie Mathewson,2035,Stefanie Mathewson
+1894,Morris McCormick,2061,Morris McCormick
+1895,Giancarlo Mercado,2118,Giancarlo Mercado
+1896,Natalie R Messinger,583,Reut R Cohen
+1897,Robin L Mlynarik,1373,Ray L Hong
+1898,Alison Muraszewski,2247,Alison Muraszewski
+1899,Sima Navid,2275,Sima Navid
+1900,Noney B O'banion,2327,Noney B O'banion
+1901,Pauline Pantazis,2411,Pauline Pantazis
+1902,Mindy M Park,51,Alexander M Alekseenko
+1903,Marian P Pasternack,1,Jose P Abara
+1904,Shamiram Patoyian,2441,Shamiram Patoyian
+1905,Erica Rood,2673,Erica Rood
+1906,Theodore L Roter,1373,Ray L Hong
+1907,Carole J Rowland,2703,Carole J Rowland
+1908,Laura P Salas,682,Konstantin P Daskalov
+1909,Heinrich Sartin M.A.,43,David M Aks
+1910,Pamela Scherban-Sierra,1874,Pamela Loew
+1911,Philip M Shaffer,757,Joy M Doan
+1912,Linda Strong,1746,Linda L Lam-easton
+1913,Robin Toder,2700,Robin N Rousselet
+1914,Jody Weissler,3347,Jody  Weissler
+1916,Deonna Williams,3384,Deonna Williams
+1918,John Carlson,395,John Robert Burger
+1919,Cynthia G Desrochers,59,Larry G Allen
+1920,Donna Dorsey,774,Donald Dorsey
+1922,Linda Jones,1368,Stacy L Holman jones
+1923,Raymond Jung,1734,Ruth Mee Jung Kwon
+1924,Philip Kligman,1668,Philip Kligman
+1925,Edward Labinowicz,1724,Edward Kung
+1930,Thomas C Potter,397,Sloane C Burke-Winkelman
+1931,James Shanks,174,James David Ballard
+1932,Richard Sharp,1307,Richard D Hendrickson
+1933,Vicki F Sharp,2895,Vicki F Sharp
+1935,Marilyn J Williams,488,Kang J Chang
+1936,Julie Gainsburg,284,Julie Bien
+1937,Tae H Chang,492,Tae H Chang
+1938,Ivan Cheng,525,Ivan Cheng
+1939,Brian J Foley,432,Christina J Campbell
+1940,Monica G Garcia,1040,Max Garcia
+1941,Cathy R Gaspard,1053,Cathy R Gaspard
+1942,Norman E Herr,701,Maria E De las carreras
+1943,David L Moguel,1153,Nancy L Grass hemmert
+1944,Mira Pak,2402,Mira Pak
+1945,Clara C Park,397,Sloane C Burke-Winkelman
+1946,Michael G Rivas,2638,Michael G Rivas
+1947,Kathleen D Rowlands,418,David D Cain
+1948,Jenn Wolfe,3415,Jenn  Wolfe
+1949,Roger S Arst,118,Roger S Arst
+1950,Mahya Babaie,154,Mahya Babaie
+1951,Peter R Berlin,93,Mads Peter Sulbaek Andersen
+1952,Solomon Bialeck,279,Solomon Bialeck
+1953,Matthew D Brown,370,Matthew D Brown
+1954,Carolyn R Burch,394,Carolyn R Burch
+1955,Nayeli Chacon,477,Nayeli Chacon
+1956,Maria Chavez,509,Maria Chavez
+1957,Joseph Chipps,532,Joseph Chipps
+1958,Janet Chu,549,Lawrence D Chu
+1959,James H Clemmensen,215,Jane H Bayes
+1960,Debra Coaloa,578,Debra Coaloa
+1961,Scott Cooper,108,Scott A Appelrouth
+1962,Robert F Coutts,623,Robert F Coutts
+1963,Sandra DaLie,671,Sandra DaLie
+1964,Catherine G Davis,687,Catherine G Davis
+1965,Michael A Davis,688,Eric Davis
+1966,Patricia Eskander,866,Patricia Eskander
+1967,Candida Fernandez-Ghoneim,905,Silvia Fernandez
+1968,Ronald Frydman,992,Ronald Frydman
+1969,Joel S Gershon,902,Crystal lane S Ferguson
+1970,Hawa Ghaus-Kelley,1071,Hawa Ghaus-Kelley
+1971,Randall Gilpin,1092,Randall Gilpin
+1972,Daniel Hart,675,Sequare K Daniel-Berhe
+1973,Maria Hirsch,665,Maria-rita R D'orsogna
+1974,Alison Hunsaker,1417,Alison Hunsaker
+1975,Tomer Kleinman,1665,Tomer Kleinman
+1976,Ronald M Klemp,51,Alexander M Alekseenko
+1977,Irv Kodimer,1676,Irv Kodimer
+1978,Sandra Krist,1713,Sandra Krist
+1979,Donald J Krotser,1718,Donald J Krotser
+1980,Carol Lache,1739,Carol Lache
+1981,Douglas Lasken,1761,Douglas Lasken
+1982,Kerry Youngae Lee,643,Lee Crowe
+1983,Margaret A Lobb,1221,Demosthenes A Halcoussis
+1984,Pamela Loew,1874,Pamela Loew
+1985,Nancy Madrid,1153,Nancy L Grass hemmert
+1986,Angela Marino,2007,Angela Marino
+1987,Leba K Marquez,348,Rodney K Brecheen-kirkton
+1988,John McQuilkin,797,John Dunn
+1989,Stephen J Miller,2150,Stephen J Miller
+1990,Linda Minster,2160,Linda Minster
+1991,Nicolas Mize,2173,Nicolas Mize
+1992,Linda Mouradian,2235,Linda Mouradian
+1993,Carlos Olivares,1323,Carlos Armando Hern�ndez
+1994,Larry A Oviatt,306,Stephanie A. Bluestein
+1995,Marian P Pasternack,1,Jose P Abara
+1996,Paul M Payne,51,Alexander M Alekseenko
+1997,Joyce E Petersons,1215,Joyce Hagen
+1998,Jeena Philip,2483,Jeena Philip
+1999,Jane S Prochazka,2542,Jane S Prochazka
+2000,Erica Reyes,2028,Efren Martinez Reyes
+2001,Donald F Savarese,2303,F Nichelson
+2002,Pamela Scherban-Sierra,1874,Pamela Loew
+2003,Gary Schur,996,Gary A Fukushima
+2004,Maureen M Sloan,757,Joy M Doan
+2005,Susan Stivers,935,Susan Fitzpatrick-Behrens
+2006,Michael Sullivan,3079,Michael J Sullivan
+2007,James R Szabo,464,Roslynn R Casterline
+2008,Fataneh Tabatabai,3114,Fataneh Tabatabai
+2009,Terri Turner,2626,Terri S Richardson
+2010,Judith Vanderbok,3203,Judith E Trost-cardamone
+2011,Penelope Venola,3257,Penelope Venola
+2012,Grace A Warren,306,Stephanie A. Bluestein
+2013,Brenda N Winter,3407,Brenda N Winter
+2014,Mildred Yi,417,Yi Cai
+2015,James Cunningham,310,James Bock
+2016,Janice Eckmier,815,Janice Eckmier
+2017,Faye Louise Grindstaff,1181,Faye Louise Grindstaff
+2018,Kyoko S Handler,902,Crystal lane S Ferguson
+2019,Viggio Hansen,1251,Viggio Hansen
+2022,Linda Huetinck,1411,Linda Huetinck
+2023,Barnabas Hughes,1413,Barnabas Hughes
+2024,Martin G Levine,1820,Martin G Levine
+2029,James O'Donnell,310,James Bock
+2031,Christine C Smith,1022,Margeaux aegel C Gamboa-wong
+2034,Behzad Bavarian,213,Behzad B Bavarian
+2035,Kang Chang,488,Kang J Chang
+2036,Robert D. Conner,599,Robert D Conner
+2037,Ileana Costea,614,Ileana Costea
+2038,Shereazad Jimmy Gandhi,1026,Shereazad Jimmy Gandhi
+2039,Bingbing Li,748,Li Ding
+2040,Mark Rajai,434,Mark D Campbell
+2041,Ahmad Sarfaraz,2784,Ahmad R Sarfaraz
+2042,Maryam Tabibzadeh,3115,Maryam Tabibzadeh
+2043,Durul Ulutan,3221,Durul Ulutan
+2044,Khashayar Behdinan,224,Khashayar Behdinan
+2045,Guido Canzona,438,Guido Canzona
+2046,Luis Echeverria,813,Luis A Echeverria
+2047,Gus H. Elias,571,James H Clemmensen
+2048,Hamid Gholami,1076,Hamid Gholami
+2049,Jay Hamade,545,Jay G. Christensen
+2050,Jaleh Jahangiri,1461,Jaleh Jahangiri
+2051,Fereshteh Lavassani,1765,Fereshteh Lavassani
+2052,Anthony Magee,613,Anthony G Costantini
+2053,Chima Ojukwu,2347,Chima O Ojukwu
+2054,Lisa Reiner,2600,Lisa R Reiner
+2055,Babak Samimi,2759,Babak Samimi
+2056,Hans Shin,2916,Hans Shin
+2057,Adrian Sita,2466,Adrian Perez-boluda
+2058,Salpy R. Tovar,665,Maria-rita R D'orsogna
+2059,Shahriar Vazan,3249,Shahriar Vazan
+2060,Scott Wainess,3293,Scott R Wainess
+2061,Bonita Campbell,431,Bonita Campbell
+2062,Jon Shively,2917,Jon Shively
+2067,Barba Richard,181,Richard Barba
+2068,Burke-Doe Annie,396,Annie Burke-Doe
+2069,Burton Thomas,405,Thomas M Burton
+2070,Carrle Raylean,455,Raylean L Carrle
+2071,Chang Julia,487,Julia W Chang
+2072,Clamor Charmaine,558,Charmaine Clamor
+2073,Donnelly Judd,769,Judd Donnelly
+2074,Druz Viktoria,787,Viktoria Druz
+2075,Ellis Anne,827,Anne M Eggebroten
+2077,Hamilton Justin,1231,Justin W Hamilton
+2078,Hawson Suzanne,1289,Suzanne C Hawson
+2079,Huntsman-Lannom Debra,578,Debra Coaloa
+2080,Jimeno Francisco,1488,Francisco Jimeno
+2081,Kamrava Shandiz,1538,Shandiz Kamrava
+2082,Katz Richard,463,Richard T Castallo
+2084,Macnaughton Lorraine,1682,Lorraine Kole
+2085,Malaspina Stephanie,1972,Stephanie Malaspina
+2086,Monroy Edwin,2186,Edwin Monroy
+2087,Murakami Mae,2246,Mae Murakami
+2088,Panama Gabriel,2406,Gabriel Panama
+2089,Sapienza Allison,61,Allison Allport counseller
+2090,Sinn Jared,2577,Jared H Rappaport
+2093,White Chris,3357,Christopher White
+2094,Xiao Danny,3431,Danny Xiao
+2095,Zandi Yvonne,3475,Yvonne Zandi
+2096,Mechelle Best,269,Mechelle N Best
+2097,Jose Gonzalez,1130,Jose Gonzalez
+2098,Joong-won Lee,1787,Joong-won Lee
+2099,Nathan Martin,2023,Nathan T Martin
+2100,Dianne Philibosian,2482,Dianne Philibosian
+2101,HeeKyung (Erika) Sung,527,Erika Chesley
+2102,Veda Ward,3313,Matthew M Ward
+2103,Alan Wright,3425,Alan N Wright
+2104,Hui (Jimmy) Xie,3432,Jimmy Xie
+2105,Applen Brittany,109,Brittany N Applen
+2106,Castillo Francisca,465,Francisca Castillo
+2107,Chesley Erika,527,Erika Chesley
+2108,Despain Joel,727,Joel D Despain
+2109,Garrovillas Erin,346,Erin Bray
+2110,Lavin Kaila,1767,Kaila M Lavin
+2111,Luo Lawrence,575,M Lawrence Clevenson
+2112,Newton Delfina,2294,Delfina Newton
+2113,Sachs Robin,2700,Robin N Rousselet
+2114,Schmidt Jason,1867,Jason Lo
+2115,Schuster Paulette,2836,Paulette A Schuster
+2116,Shade Babette,2872,Babette D Shade
+2117,Szczespanski Tim,297,Tim Black
+2118,Van Arsdale John,797,John Dunn
+2119,Vincent Leanne,3274,Leanne M Vincent
+2121,Wilsey Kassandra,3396,Kassandra C Wilsey
+2122,Yost Wendy,1279,Wendy E Hassenpflug
+2123,Larry Allen,59,Larry G Allen
+2124,Lisa Banner,177,Lisa R Banner
+2125,Chhandak Basu,202,Dr. Chhandak Basu
+2126,David Bermudes,258,David G Bermudes
+2127,Robert Carpenter,449,Robert C Carpenter
+2128,Randy Cohen,582,Randy W Cohen
+2129,Cheryl Courtney-Hogue,1364,Cheryl C Hogue
+2130,Maria Elena deBellard,19,Maria A Acuna
+2131,Steve Dudgeon,791,Steven R Dudgeon
+2132,Peter Edmunds,93,Mads Peter Sulbaek Andersen
+2133,Robert Espinoza,869,Robert E. Espinoza
+2134,Gilberto E. Flores,197,Eli E Bartle
+2135,David Gray,17,David S Ackerman
+2136,Yoshie Hanzawa,1252,Yoshie Hanzawa
+2137,Fritz Hertel,1337,Fritz S Hertel
+2138,Ray Hong,1373,Ray L Hong
+2139,Tim Karels,1555,Timothy J Karels
+2140,Jonathan Kelber,1581,Jonathan A Kelber
+2141,Mariano Loza Coll,1912,Mariano A Loza coll
+2142,Rachel Mackelprang,1947,Rachel Mackelprang
+2143,Cindy Malone,1981,Cindy Malone
+2144,Rheem Medh,2089,Jheem Medh
+2145,Sean Murray,1609,Sean Maziar Keyani
+2146,Kerry Nickols,2306,Kerry J Nickols
+2147,Jeanne Robertson,2648,Jeanne M Robertson
+2148,Crystal Rogers,902,Crystal lane S Ferguson
+2149,Cristian Ruiz Rueda,2717,Everto Ruiz
+2150,Paula Schiffman,2809,Paula M Schiffman
+2151,Mark Steele,1603,Khanik Mark Kerobyan
+2152,Nyssa Silbiger,2930,Nyssa J Silbiger
+2153,Mary-Pat Stein,550,Mary Chua
+2154,Michael Summers,3085,Michael L Summers
+2155,Melissa Takahashi,3120,Melissa Takahashi
+2156,Casey terHorst,3147,Casey P Terhorst
+2157,Cheryl Van Buskirk,3237,Cheryl Van Buskirk
+2158,Virginia Vandergon,2333,Virginia M Oberholzer vandergon
+2159,Paul Wilson,3398,Paul Siri Wilson
+2160,Jeremy Yoder,3447,Jeremy B Yoder
+2161,Maria Elena Zavala,509,Maria Chavez
+2162,Maurie Beck,221,Maurie J Beck
+2163,Ali Ebneshahidi,84,Ali Amini
+2164,Desiree Goetting,1111,Desiree Goetting
+2165,Michael Franklin,978,Michael P Franklin
+2166,Loni Hands,1241,Loni Hands
+2168,James Hogue,174,James David Ballard
+2169,Dana Harmon,1260,Dana Harmon
+2170,Cynthia Kay-Nishiyama,1571,Cynthia A Kay-nishiyama
+2171,Carson Keller,1585,Carson Keller
+2172,Karen Koch,9,Karen Abramowitz
+2173,Ernest Kwok,1729,Ernest Y Kwok
+2174,Janet Kubler,1719,Janet E Kubler
+2175,Paul Lonquich,1883,Paul D Lonquich
+2176,Daniel Odom,675,Sequare K Daniel-Berhe
+2177,Cody Russell,2727,Cody Russell
+2178,Georgios Tsounis,3208,Georgios Tsounis
+2179,Edward Zambrano,3472,Edward Zambrano
+2182,Chris Chabot,476,Chris L Chabot
+2187,Marc Felix,2555,Felix Rabinovich
+2188,Manuel Fernandez,907,Candida Fernandez-Ghoneim
+2189,Linda Gharakhanian,771,Linda Doran
+2190,Rachel Giacopuzzi-Brown,367,Anthony E Brown
+2191,Mark Harris,1266,Nicole Harris Johnson
+2193,James Hogue,174,James David Ballard
+2196,Karen Moore,448,Karen Dee Carpenter
+2198,Terri Richardson M.D.,18,Megan D Aclan
+2200,Nancy Bishop,295,Nancy Bishop
+2201,Linda Caren,1746,Linda L Lam-easton
+2202,Mary Corcoran,606,Mary Corcoran
+2203,Jim Dole ,765,Jim W Dole
+2205,Warren Furumoto,1002,Warren Furumoto
+2207,Kenneth C. Jones,397,Sloane C Burke-Winkelman
+2208,Daisy Kuhn,1723,Daisy Kuhn
+2209,Jennifer Matos,1311,Jennifer A Henningfield
+2210,Joyce Maxwell,379,Joyce Marie Brusasco
+2211,Joseph Moore,714,Joseph C Deladurantey
+2212,Steven Oppenheimer,1459,Steven Jager
+2214,Edward Pollock,2512,Edward Pollack
+2215,O. Tacheeni Scott,87,Scott Amiss
+2216,Phillip Sheeler,2900,Phillip Sheeler
+2217,Mary Lee Sparling,550,Mary Chua
+2218,Charles Spotts,1628,Charles Killingsworth
+2219,Charles Weston,1628,Charles Killingsworth
+2221,Peter Bellinger,93,Mads Peter Sulbaek Andersen
+2222,Edward J. Carroll,456,Edward J Carroll
+2223,Karin Hassenrueck ,1280,Karin Hassenrueck
+2224,Kayla Kaiser,1530,Kayla A Kaiser
+2225,Tim Kautiainen,297,Tim Black
+2226,Kamatchi Lakshminarayanan,1745,Kamatchi Lakshminarayanan
+2227,Cecil Robinson,473,Robinson Cecil
+2228,Cotton Jennifer,618,Jennifer M Cotton
+2229,d'Alessio Matthew,664,Matthew A D'Alessio
+2230,Evans Eileen,874,Eileen Evans
+2231,Ganguli Priya,1027,Priya Ganguli
+2232,Hauswirth Scott,1287,Scott Hauswirth
+2233,Heermance Richard,1295,Richard V Heermance
+2234,Lozos Julian,1914,Julian C Lozos
+2235,Marsaglia Kathleen,2016,Kathleen M Marsaglia
+2236,Miranda Elena,903,Maria Elena Fernandez
+2237,Schwartz Joshua,2840,Joshua J Schwartz
+2238,Tabidian M. Ali,84,Ali Amini
+2239,Weeraratne Dayanthie,3335,Dayanthie S Weeraratne
+2240,Yule Doug,3466,Doug Yule
+2241,Fleck Jenna,939,Jenna R Fleck
+2242,Huerta Brittany,1409,Brittany Huerta
+2243,McBurnett Paul,209,Paul Baum
+2244,Miller Kimberly,2148,Kimberly Miller
+2246,Savage Karen,448,Karen Dee Carpenter
+2247,Adams Herbert G.,23,Herbert Adams
+2248,Collins Lorence G.,2341,Sharon G Oh
+2249,Dunne George C.,397,Sloane C Burke-Winkelman
+2250,Pedone Vicki,2454,VIcki Pedone
+2252,Sloan Jon,546,Jon Christensen
+2253,Squires Richard,3022,Richard Squires
+2254,Enrique de la Cruz,646,Jaime S Cruz
+2255,Anne Crawford,637,Anne Crawford
+2256,Joseph Galasso,714,Joseph C Deladurantey
+2257,Shadi Ganjavi,1028,Shadi Ganjavi
+2258,John Gides,291,John T Birmingham
+2259,Anna Dina L. Joaquin,245,Anna Benson
+2261,Stephanie Hyeri Kim,4,Kim Abeles
+2262,Sharon Klein,1662,Sharon M Klein
+2263,Rebecca Litke,566,Rebecca L Clark mane
+2264,Kenneth V. Luna,1922,Kenneth V Luna
+2265,Terrie Mathis,2036,Terrie D Mathis
+2266,David J. Medeiros,43,David M Aks
+2267,Laura Ruth-Hirrel,1352,Laura Hirrel
+2268,Ana Sanchez Munoz,1125,Ana Gomez
+2270,Wendy Snyder,1279,Wendy E Hassenpflug
+2271,Hyung-Jo Yoon,3452,Hyung-Jo Yoon
+2272,Tim Black,297,Tim Black
+2273,Abel Franco,972,Abel B Franco
+2274,Robert Gressis,1172,Robert A Gressis
+2275,Jacob Hale,1222,C Jacob Hale
+2276,Sarah Hansen,1250,Sarah K Hansen
+2277,Kristina Meshelski,2122,Kristina K Meshelski
+2278,Robin M. Muller,757,Joy M Doan
+2279,Bonnie Paller,2404,Bonnie Paller
+2280,Adam Swenson,3104,Adam R Swenson
+2281,Weimin Sun,3088,Weimin Sun
+2282,Gregory Velazco y Trianosky,624,Gregory Cover
+2283,Takashi Yagisawa,3435,Takashi Yagisawa
+2284,Julie Yoo,253,Julie A Berghofer
+2285,John Birmingham,291,John T Birmingham
+2287,Valerie Giovanini,1096,Valerie O Giovanini
+2288,Mitchell Herschbach,1336,Mitch Herschbach
+2289,Justin Kitchen,1657,Justin Kitchen
+2290,Daniel Kwon,675,Sequare K Daniel-Berhe
+2291,Leemon McHenry,2071,Leemon B McHenry
+2292,Markar Melkonian,2103,Markar Melkonian
+2293,Christopher Pallotti,2405,Christopher A Pallotti
+2294,Mark Pressman,1603,Khanik Mark Kerobyan
+2295,Li Schroeder,748,Li Ding
+2296,Mojgan Taheri,3119,Sattar Taheri-Araghi
+2297,Birgit Tregenza,3199,Birgit L Tregenza
+2298,Charles Crittenden,406,Charles Bush
+2299,James Kellenberger,310,James Bock
+2300,Ronald McIntyre,2074,Ronald McIntyre
+2301,Richard Rodewald,2654,Richard Rodewald
+2302,Scott Andrews,100,Scott D Andrews
+2303,Mariaelena Huambachano,1402,Mariaelena Huambachano
+2304,Pauline Alvarez,71,Pauline Alvarez
+2305,Biel Michael E,282,Dino Biel
+2306,Hall Edward P,682,Konstantin P Daskalov
+2307,Jackson Catherine A,307,Nancy A Blum
+2309,Kochis-Jennings Karen A,0,Iris A'Hirataro
+2310,Seymour Patricia J,488,Kang J Chang
+2311,Sinclair J. Stephen,488,Kang J Chang
+2312,Strike-Roussos Christine,3063,Christine S Roussos
+2313,Weber Elizabeth G,2341,Sharon G Oh
+2314,Yu Vickie,3464,Vickie Y Yu
+2315,Anvari Padideh,106,Padideh Anvari
+2316,Cartwright Laurie M,43,David M Aks
+2317,Cathcart Sarah E,471,Sarah Cathcart
+2318,Fenig Marshall J,900,Marshall J Fenig
+2319,Hernandez Amalia,1320,Amalia Hernandez
+2320,Hochman Ruth,1357,RUTH HOCHMAN
+2321,Karahalios Delia,1551,Delia Karahalios
+2322,La Rue Linda,699,Enrique De la cruz
+2323,Lew Gail W,496,James W Chapman
+2324,Malan John,291,John T Birmingham
+2325,Miller Amanda B,2142,Amanda B Miller
+2326,Parmenter Wendy I,1399,I-nan Hsu
+2327,Schmidt Deandra,2817,Deandra Schmidt
+2328,Spayd Karen A,306,Stephanie A. Bluestein
+2329,Trost-Cardamone Judith E,194,Jerry E Barshay
+2330,Doris Abrishami,14,Dr. Doris Abrishami
+2331,Patty (Patchareeya) Kwan,1728,Patty (Patchareeya) Kwan
+2332,Kaitlin Bahr,164,Kaitlin Bahr
+2333,Grishma Bhavsar,278,Grishma P Bhavsar
+2334,Salvador Esparza,868,Salvador J Esparza
+2335,Bethany Rainisch,2565,Bethany K.W. Rainisch
+2336,Louis Rubino,2714,Louis G Rubino
+2337,Carmen Saunders-Russell,2727,Cody Russell
+2338,Mirna Sawyer,2796,Mirna Sawyer
+2339,Anita Slechta,2956,Anita M Slechta
+2340,Suzanne Spear,3009,Suzanne E Spear
+2341,Claudia Toledo-Corral,3181,Claudia Toledo-Corral
+2342,Jenny Yi,1833,Yi Li
+2343,Kathleen Young,3457,Kathleen Young
+2344,Frankline "Frankie" Augustin,141,Frankie Augustin
+2345,Stephanie Benjamin,238,Stephanie M Benjamin
+2346,Kacie Blackman,298,Kacie Blackman 
+2347,Sloane Burke-Winkelman,397,Sloane C Burke-Winkelman
+2348,Lawrence Chu,549,Lawrence D Chu
+2349,Stephan (Kyusuk) Chung,553,Stephan (Kyusuk) Chung
+2350,Stephen Duarte,789,Duarte
+2351,Vicki Ebin,810,Vicki J Ebin
+2352,Merav Efrat,825,Merav Efrat
+2353,Bobbie (Roberta) Emetu,852,Bobbie Emetu
+2354,Myriam Forster,961,Myriam Forster
+2355,Jennifer Little,1311,Jennifer A Henningfield
+2356,Gretta Madjzoob,1955,Gretta Madjzoob
+2357,Brian Malec,568,Brian M Clearwater
+2358,Carrie Pullen,2545,Carrie Pullen
+2359,Crystal Adams,21,Crystal P Adams
+2360,Yazeed Alhiyari,57,Yazeed Alhiyari
+2362,Nasim Bahadorani,163,Nasim Bahadorani
+2363,Nader Binesh,288,Nader Binesh
+2364,Keith Brady,340,Keith Brady
+2365,Francesco Chiappelli,529,Francesco Chiappelli
+2366,Damon Cianci,555,Damon J Cianci
+2367,Danielle Co,1474,Danielle N Jarvis
+2368,Susan Cohen,287,Susan Billens-Ivory
+2369,Iisha Coleman,587,Iisha Coleman
+2370,Robin Edmonds,819,Robin D Edmonds
+2371,Randy Farber,887,Randy N Farber
+2372,Nadia (Nadejda) Fedortsova,893,Nadia Fedortsova
+2373,Dennis Fliegelman,942,Dennis N Fliegelman
+2374,Julie Friedman,983,Julie Friedman
+2375,Jeffrey Goodman,1136,Jeffrey Goodman
+2376,Adrienne Gundry,1196,Adrienne M Gundry
+2377,Miguel-Angel Gutierrez,474,Miguel A Ceja
+2378,James Hearn,174,James David Ballard
+2379,Corey Hidalgo,1342,Corey Hidalgo
+2380,Jerry Jackson,1261,Jerry A Harrel-smith
+2381,Jennifer Jorge,1311,Jennifer A Henningfield
+2382,Joo Kim,1116,Kim L Goldberg-roth
+2383,Todd Larson,1759,Todd Larson
+2384,Marianne Link,1285,Marianne haneh Hattar
+2385,Carl Maida,1966,Carl A Maida
+2386,Joshua Manlutac,1992,Joshua Manlutac
+2387,Janet Marquard-Tormey,24,Janet M Adams
+2388,Joanne Moreno,2211,Joanne Moreno
+2389,Shoshanna Nakelsky,2263,Shoshanna Nakelsky
+2390,Karen Neiberg,1675,Karen A Kochis-jennings
+2391,Santor Nishizaki,2312,Santor Nishizaki
+2392,Joni Novosel,2320,Joni L Novosel
+2393,Stephanie Nunes,2322,Stephanie Nunes
+2394,Sona Oksuzyan,2348,Sona Oksuzyan
+2395,Andrew Oppenberg,2363,Andrew A Oppenberg
+2396,Robyn Parks,2430,Robyn Parks
+2397,Renee Peace,2448,Renee L Peace
+2398,Edmundo Quezada,2548,Edmundo Quezada
+2399,Christopher Rogers,2664,Christopher Rogers
+2400,Cathy Rusch,2723,Cathy S Rusch
+2401,Jose Salazar,2668,Jose E Rojas-torres
+2402,Alejandra Sandoval,2772,Alejandra Sandoval
+2403,Peter Sepsis,93,Mads Peter Sulbaek Andersen
+2404,Luke Sferra,2870,Luke A Sferra
+2405,James Sherman,2909,James F Sherman
+2406,Ronald Sorensen,2994,Ronald D Sorensen
+2407,Elio Spinello,3015,Elio F Spinello
+2408,Sheri Strahl,3061,Sheri J Strahl
+2409,Steven Stumpf,2364,Steven B Oppenheimer
+2410,Carla (Mary) Valdez,550,Mary Chua
+2411,Vir-Iaesta Vergel De Dios,703,Gioy De Marco
+2413,Lauren Walter,3305,Lauren Walter
+2415,Tanya Wicks,3376,Tanya Wicks
+2416,Joy Williams,3287,Joy A Vonwolffersdorff
+2417,Craig Winkelman,397,Sloane C Burke-Winkelman
+2418,Michael Bruse,380,Michael Bruse
+2419,Marsha Chan,482,Marsha C Chan
+2420,Lisa Chaudhari,505,Lisa Chaudhari
+2421,Lisa Grate,2621,Lisa D Riccomini
+2426,Deborah Forman,959,Deborah Forman
+2427,Christina Ayala-Alcantar,148,Joseph Ayala
+2428,Yreina Cervantez,475,Yreina D Cervantez
+2429,Martha Escobar,862,Martha D Escobar
+2430,Alicia Ivonne Estrada,870,Alicia I Estrada
+2431,Xochitl M. Flores-Marcial,24,Janet M Adams
+2432,Melisa C. Galvan,397,Sloane C Burke-Winkelman
+2433,Peter J. Garcia,93,Mads Peter Sulbaek Andersen
+2434,Ramon Garcia,1043,Ramon Garcia
+2435,Rosemary Gonzalez,1133,Rosemary Gonzalez
+2436,Gabriel Gutierrez,1202,Gabriel Gutierrez
+2437,Fermin Herrera,1329,Fermin Herrera
+2438,Maria Isabel Herrera,19,Maria A Acuna
+2439,Marta Lopez-Garza,1896,Marta C Lopez-garza
+2440,Lara Medina,2091,Lara Medina
+2441,Theresa Montano,2188,Theresa Montano
+2442,Renee Moreno,2212,Renee Moreno
+2443,Roberta Orona-Cordova,2368,Roberta Orona-cordova
+2444,Mary Pardo,347,Mary K. Breazeale
+2445,Rosa RiVera-Furumoto,2639,Rosa L Rivera furumoto
+2446,David Rodriguez,462,David Cary
+2447,Stevie Ruiz,2719,Stevie R Ruiz
+2448,Ana Sanchez-Munoz,1125,Ana Gomez
+2449,Denise Sandoval,2773,Denise M Sandoval
+2450,Francisco Tamayo,3125,Francisco N Tamayo
+2451,Yarma Velazquez-Vargas,3244,Jose Vargas
+2452,Sandor Samuels,2765,Sandor E Samuels
+2453,Kurt Saunders,2789,Carmen T Saunders-Russell
+2454,Hilary Silvia-Goldberg,1115,Hilary M Goldberg
+2455,Melanie Williams,3389,Melanie Stallings Williams
+2456,Gregory Young,3255,Gregory Velazco y trianosky
+2457,Jennifer Berry ,262,Jennifer L Berry
+2458,Shira Brown ,372,Shira J Brown
+2459,Marie Cartier ,379,Joyce Marie Brusasco
+2460,Melanie Klein ,1661,Melanie C Klein
+2461,Kristyan Kouri ,1697,Kristyan M Kouri
+2462,Ricky Manoff ,1993,Ricky J Manoff
+2463,Heidi Schumacher ,2834,Heidi A Schumacher
+2464,Rosa Angulo-Barroso ,102,Rosa M Angulo-Barroso
+2465,Chris Bolsmann ,316,Chris Bolsmann
+2466,Sean P. Flanagan ,936,Sean P Flanagan
+2467,Ovande Furtado Jr. ,1001,Ovande Furtado
+2468,Ivan Guillory ,1194,Ivan K Guillory
+2469,Kim Henige ,1116,Kim L Goldberg-roth
+2470,Jake Hinkel-Lipsker ,1349,Jake W. Hinkel-Lipsker
+2472,Danielle Jarvis ,1474,Danielle N Jarvis
+2473,Jacob Jensen ,1481,Jacob C Jensen
+2474,Taeyou Jung ,1521,Taeyou Jung
+2475,George Kioussis ,1650,George N Kioussis
+2476,Andrew Linden ,1848,Andrew D. Linden
+2477,Steven Loy ,791,Steven R Dudgeon
+2478,Paulo Marchetti ,1998,Dr. Paulo Marchetti
+2479,Douglas W. McLaughlin ,26,John W. Adams
+2480,Justin Nicoll ,2308,Justin Nicoll
+2481,Elizabeth Parke ,1610,Elizabeth Keyishian Wilks
+2482,Sean Rogers ATC ,2666,Sean M Rogers
+2483,Ashley A. Samson ,1221,Demosthenes A Halcoussis
+2484,Shane D. Stecyk ,724,Nazaret Dermendjian. Ph.D.
+2485,Belinda Stillwell ,3049,Belinda Stillwell
+2486,Terry Sweeting ,3103,Terry L Sweeting
+2487,Paula S. Thomson ,2569,S K Ramesh
+2488,Teri Todd ,2601,Todd Reinstein
+2489,K. Dino Vrongistinos ,205,Holly K Batty
+2490,William C. Whiting ,616,Irene C Cota
+2491,Benedict B. Yaspelkis III ,66,Dylan B Altman
+2492,Scott Amiss ,87,Scott Amiss
+2493,Richard Andrews ,99,Richard A Andrews
+2494,Carolyn Barnes ,188,Carolyn M Barnes
+2495,Teri Berkel ,255,Teri Berkel
+2496,Esteban Campa ,430,Esteban Campa
+2497,Mary Chua ,347,Mary K. Breazeale
+2498,James Clemmensen ,310,James Bock
+2499,Claire Coudray ,619,Claire Coudray
+2500,Emily Curtis ,658,Emily Curtis
+2501,Liezel De Guzman ,3260,Vir-Iaesta M Vergel de Dios
+2502,Robert DeLaCruz ,700,Robert D De la cruz
+2503,Joanne Divito ,755,Joanne DiVito
+2504,Jacqueline Eusanio ,872,Jacqueline C Eusanio
+2505,John Farr ,289,John H Binkley
+2506,Jay Fischer ,545,Jay G. Christensen
+2507,Eve Fleck ,938,Eve S Fleck
+2508,Hiroyasu Fujishima ,995,Hiroyasu Fujishima
+2509,Nick Galli ,1017,Nick A Galli
+2510,Elizabeth Garcia ,1032,Elizabeth Garcia
+2511,Wendy Hassenpflug ,1279,Wendy E Hassenpflug
+2512,Allen Hope ,1376,Allen S Hope
+2513,Ileana Hurtado ,1421,Ileana Hurtado
+2514,Shabnam Islam ,1439,Shabnam A Islam
+2515,Farzad Jalilvand Tehrani ,1467,Farzad Jalilvand tehrani
+2516,Mai Jara ,1471,Mai Jara
+2517,Jarrod Jonsrud ,1512,Jarrod Jonsrud
+2518,Nvard Khachatryan ,1614,Nvard Khachatryan
+2519,Timothy Komori ,1685,Timothy J Komori
+2520,Christine LaMonica ,1749,Christine LaMonica
+2521,Jae Lim ,1839,Jae C Lim
+2522,Michele Longoria ,1882,Michele Longoria
+2523,Christopher Mcclain ,2057,Christopher S Mcclain
+2524,Derek Mena ,2104,Derek Mena
+2525,Dennis Mestas ,2127,Dennis J Mestas
+2526,Victoria Nichols ,2305,Victoria Nichols
+2527,Matthew Parke ,726,Matthew R Des lauriers
+2528,Daniel Parsons ,675,Sequare K Daniel-Berhe
+2529,Rebecca Pena ,566,Rebecca L Clark mane
+2530,Lino Perez ,954,Maureen Fondevilla-Perez
+2531,Judy Pisarro-Grant ,1151,Andrew Grant
+2532,Robert Plotke ,2504,Robert Plotke
+2533,Michelle Rodriguez ,2662,Michelle Rodriguez
+2534,Elizabeth Rohrer ,1610,Elizabeth Keyishian Wilks
+2535,Evan Rosenblatt ,2684,Evan R Rosenblatt
+2536,Bethana Rosenthal ,2689,Bethana A Rosenthal
+2537,Daniel Smith ,675,Sequare K Daniel-Berhe
+2538,Susan Snyder ,287,Susan Billens-Ivory
+2539,Aaron Weinstein ,3340,Aaron J Weinstein
+2540,Sharon West-Sell ,1841,Sharon Lim
+2541,Hooshang Bagheri ,160,Hooshang Bagheri
+2543,Jennifer L. Romack ,369,Jodi L Brown
+2544,Mary J. Sariscsany ,488,Kang J Chang
+2545,Ray Calnan ,423,Ray Calnan
+2546,Mark Campbell ,432,Christina J Campbell
+2547,Nanci Carr ,451,Nanci K Carr
+2548,Wade Chumney ,552,Wade M Chumney
+2549,Allan Cooper ,602,Allan B Cooper
+2550,Reid L Denham ,566,Rebecca L Clark mane
+2551,Valerie Flugge ,949,Valerie Flugge Goyer
+2552,Nina Golden ,1118,Nina G Golden
+2553,Viren Kapadia ,1544,Viren Kapadia
+2554,David Newman ,174,James David Ballard
+2555,Christopher Ng ,704,Christopher Dean
+2556,Stuart Pardau ,2417,Stuart L Pardau
+2557,Tarini Ramaprakash ,2568,Tarini Ramaprakash
+2558,Lauren Ross ,2066,Lauren E Mcdonald
+2559,Leonard Rymsza ,2735,Leonard Rymsza
+2560,Douglas Carranza  . ,452,Douglas G Carranza
+2561,Karla Cativo  ,472,Karla Cativo
+2562,Beatriz Cortez  . ,609,Beatriz Cortez
+2563,Jocelyn Duarte  ,788,Jocelyn Duarte
+2564,Stephanie Lemus  ,1804,Stephanie Lemus
+2565,Susana Marcelo  ,1997,Susana N Marcelo
+2566,Leslie Rodriguez  ,2660,Leslie Rodriguez
+2567,Freya Rojo  ,2669,Freya Rojo
+2568,Lizbeth Ruiz-Torres  ,2717,Everto Ruiz
+2569,Celia Simonds  ,2941,Celia Simonds
+2570,Jasmin Tobar  ,3174,Jasmin Tobar
+2571,Joseph Wiltberger  . ,517,Joseph Chen
+2572,An Yountae  . ,90,Yountae An
+2573,Arturo Zepeda  ,3488,Arturo Zepeda
+2574,Sandor Samuels ,2765,Sandor E Samuels
+2575,Kurt Saunders ,2789,Carmen T Saunders-Russell
+2576,Hilary Silvia-Goldberg ,1115,Hilary M Goldberg
+2577,Melanie Williams ,3389,Melanie Stallings Williams
+2578,Gregory Young ,3255,Gregory Velazco y trianosky
